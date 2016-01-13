@@ -135,7 +135,7 @@ We will calculate Precision, recall and F1 for the two subtasks and the winner f
 - [Mauro Dragoni](http://shell.fbk.eu/people/profile/dragoni), Fondazione Bruno Kessler, Trento, Italy
 - [Adeline Nazarenko](https://lipn.univ-paris13.fr/fr/component/content/article?id=3064&nom=Nazarenko), Université Paris 13, France
 - [Silvio Peroni](http://www.essepuntato.it/), Univeristy of Bologna, Italy
-- [Francesco Poggi](), Univeristy of Bologna, Italy
+- [Francesco Poggi](https://www.unibo.it/sitoweb/francesco.poggi5/en), Univeristy of Bologna, Italy
 - [Diego Reforgiato](http://www.istc.cnr.it/people/diego-reforgiato-recupero), STLab-CNR, Italy
 
 
