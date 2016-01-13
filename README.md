@@ -116,3 +116,16 @@ We will calculate Precision, recall and F1 for the two subtasks and the winner f
 
 
 ##Task 3
+
+
+
+# Organising Committee
+
+- [Andrea Giovanni Nuzzolese](http://www.cs.unibo.it/~nuzzoles/), STLab-CNR, Italy
+- [Valentina Presutti](http://stlab.istc.cnr.it/stlab/User:ValentinaPresutti), STLab-CNR, Italy
+- [Anna Lisa Gentile](http://dws.informatik.uni-mannheim.de/en/people/researchers/annalisa/), University of Mannheim, Germany
+- [Robert Meusel](http://dws.informatik.uni-mannheim.de/en/people/researchers/robert-meusel/), University of Mannheim, Germany
+- [Heiko paulheim](http://dws.informatik.uni-mannheim.de/en/people/professors/dr-heiko-paulheim/), University of Mannheim, Germany
+- [Aldo Gangemi](http://www.istc.cnr.it/people/aldo-gangemi), Université Paris 13, France
+
+
