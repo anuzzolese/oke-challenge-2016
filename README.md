@@ -26,6 +26,13 @@ The **Gold Standard data** is available in folder [GoldStandard_sampleData](./Go
 - **Test data** published: Friday April 8th, 2016
 - **Camera ready** papers due: Sunday April 24th, 2016​
 
+Participants must:
+
+1. Submit a paper describing their system, via [EasyChair](https://easychair.org/conferences/?conf=oke2015), no later then **March 11th, 2016**. The paper should contain the details of the system, including why the system is innovative, how it uses Semantic Web, which features or functions the system provides, what design choices were made and what lessons were learned. The description should also summarise how participants have addressed the evaluation task(s). Papers must be submitted in PDF format, following the style of the Springer's Lecture Notes in Computer Science (LNCS) series (http://www.springer.com/computer/lncs/lncs+authors), and not exceeding 12 pages in length. 
+2. For task 1 and 2 provide access to the application as webservice, with input/output provided in [NIF](http://persistence.uni-leipzig.org/nlp2rdf/) format. The final evaluation  will be carried out via [GERBIL](http://gerbil.aksw.org). The implementation of the evaluation for tasks 1-2 is already available on GERBIL (also accessible as open source code) as [Web demo](http://gerbil.aksw.org/gerbil/config). Participants can autonomously test their system using GERBIL (selecting as Experiment Type either OKE Challenge 2015 - Task 1 or OKE Challenge 2015 - Task 2).
+For task 3 participants will have to produce results in the specified format.
+3. The URI for the final system (for task1-2) / results on test set (for task 3)  must be provided by **April 8th, 2016** when the organizers will evaluate the systems against the **evaluation dataset**, which will be publicly released after announcement of results.
+
 
 # Tasks Overview
 
@@ -58,6 +65,8 @@ we want the system to recognize four entities:
 | Sydney | oke:Sydney| dul:Place      |    dbpedia:Sydney  |
 | Douglas Robert Dundas |oke:Douglas_Robert_Dundas| dul:Person      |      |
 
+###Expected Output
+
 The results must be provided in [NIF](http://persistence.uni-leipzig.org/nlp2rdf/) format, including the offsets of recognized entities. The expected output for the example sentence can be found in [task1.ttl](./example_data/task1.ttl).
 
 In the above example we use
@@ -66,6 +75,7 @@ In the above example we use
 @prefix oke: <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/>
 ```
 
+###Evaluation
 
 We will evaluate three aspects on this task, independently:
 
@@ -98,6 +108,8 @@ As an example, for the sentence:
 | fictional villain      |oke:FictionalVillain| dul:Personification | 
 | villain      | oke:Villain|dul:Person    |  
 
+###Expected Output
+
 The results must be provided in [NIF](http://persistence.uni-leipzig.org/nlp2rdf/) format, including the offsets of recognized string describing the type. The expected output for the example sentence can be found in [task2.ttl](./example_data/task2.ttl).
 
 In the above example we use
@@ -106,6 +118,7 @@ In the above example we use
 @prefix oke: <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/>
 ```
 
+###Evaluation
 
 We will evaluate two aspects on this task, independently:
 
@@ -116,7 +129,88 @@ We will calculate Precision, recall and F1 for the two subtasks and the winner f
 
 
 ##Task 3
+In the last years, more and more websites started making use of
+markup languages as Microdata, RDFa, and Microformats to annotate
+information on their pages. In 2014, over 17.3% of the popular
+websites made use of at least one of those three markup languages,
+with [schema.org and Microdata being among the most widely deployed
+standards](http://dl.acm.org/citation.cfm?id=2797124). Using tools like [Any23](https://code.google.com/p/any23/) allows the extraction of such
+annotated information from those web pages and returning them as
+RDF triples.
+One of the largest, publicly available collections of such triples
+extracted from HTML pages is provided by the [Web Data Commons
+project](http://webdatacommons.org/structureddata). The triples were extracted by the project using Any23
+and Web crawls curated by the [Common Crawl Foundation](http://commoncrawl.org/),
+which
+maintains one of the largest, publicly available Web crawl corpora.
+Structured annotations provide a very large corpus of training data
+for knowledge extraction from the Web. In this task, we ask participants
+to use annotated Web pages as stimuli for training a Web-scale
+extraction system which is capable of extracting structured data from
+non-annotated pages.
 
+
+
+###Provided input 
+
+Training data:
+- The input consists of pairs of Web pages with structured annotations,
+and the corresponding RDF statements extracted from
+the annotations.
+- For validating trained system, the Web pages are also provided
+with annotations removed.
+
+
+Evaluation data:
+- The evaluation data consists of Web pages (not contained in the
+training corpus) with structured annotations.
+- For those Web pages, the extracted triples are not published,
+and as the annotations are removed, they cannot be trivially
+reconstructed.
+
+
+###Expected Output
+- For each Web page, we expect the users to extract a set of RDF
+statements. Following the [Microdata to RDF specification](http://www.w3.org/TR/microdata-rdf/),
+each resource is represented by a blank node.
+- The submission consists of RDF quads, where the fourth component
+is the URL of the Web page from which the statement
+has been extracted.
+
+Both the training and evaluation
+dataset are samples from the 2014 Web Data Commons corpus,
+which contain exactly one root entity from a given class (e.g., Music
+Recording). We provide training and evaluation datasets for five different
+classes, as well as a mixed set containing instances from all five
+classes. 
+
+The size of the five datasets is the following:
+
+| Class Avg. | instances per page | Avg. properties per page | # uniq. Hosts|
+| ------------- |------------- |-------------| -----|
+
+|MusicRecording| 2.52 11.77 154|
+|Person| 1.56| 7.71| 2,970|
+|Recipe| 1.76| 21.95| 2,387|
+|Restaurant| 3.15 |14.69 1,786|
+|SportsEvent| 4.00 |14.28 |135|
+|Mixed| 2.26| 14.42 |7,398|
+
+Note that while
+there is only one root entity, most pages describe more than one entity
+(e.g., for music recordings, there may also be entities for the artist and
+the record label).
+
+###Evaluation
+
+For each of the six datasets, recall, precision,
+and F-measure (of triples in the gold standard) are computed,
+with the macro average F-measure across all six datasets being used
+to determine the best-performing solution.
+As stated above, entities are represented by blank nodes, therefore,
+blank node identifiers are not taken into account when computing
+the triple overlap. Furthermore, when comparing literals, those are
+trimmed before (i.e., leading and trailing whitespace is removed).
 
 
 # Organising Committee
