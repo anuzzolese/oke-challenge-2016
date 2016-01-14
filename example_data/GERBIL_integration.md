@@ -26,7 +26,7 @@ curl -H "Content-Type:application/x-turtle" -H "Accept:application/x-turtle"
   http://system_end_point
 ```
   
-An annotation system should produce a valid NIF-compliant turtle as output. Such a turlte contains the annotations produced by 
+An annotation system should produce a valid NIF-compliant turtle as output. Such a turtle contains the annotations produced by 
 an annotation system, cf. https://github.com/anuzzolese/oke-challenge/blob/master/example_data/task1.ttl for details.
 
 So the participants to the challenge should take care that their systems:
