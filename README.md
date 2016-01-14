@@ -214,10 +214,15 @@ Moreover:
 - For the evaluation of literals, we will trim the literals (remove spaces), meaning " University of   Mannheim" is equal to "University of Mannheim". In addition language tags will not be considered, meaning "Hello"@en-us is equal to "Hello"@it and "Hello"
 - For the evaluation of URLs (as there is a BUG within Any23) we apply the following strategy. In case the URL is absolute in the HTML, we expect an absolute URL also in the quads. If the URL is relative, we expect a relative URL in the quads. As ANY23 has in some cases problems extracting the relative URL we normalize those according to the strategy above.
 - We will apply a de-duplication step before the evaluation, as in some cases data providers maintain the same information (e.g. the price or the name of a product) multiple times within the page. This means the following quads
+```
 _:1    schema.org/url    google.com    yahoo.com
 _:1    schema.org/url    google.com    yahoo.com
-will be de-duplicated to
+```
+
+will be de-duplicated to:
+```
 _:1    schema.org/url    google.com    yahoo.com 
+```
 
 
 # Organising Committee
