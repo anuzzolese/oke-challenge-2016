@@ -188,13 +188,12 @@ The size of the five datasets is the following:
 
 | Class Avg. | instances per page | Avg. properties per page | # uniq. Hosts|
 | ------------- |------------- |-------------| -----|
-
-|MusicRecording| 2.52 11.77 154|
-|Person| 1.56| 7.71| 2,970|
-|Recipe| 1.76| 21.95| 2,387|
-|Restaurant| 3.15 |14.69 1,786|
-|SportsEvent| 4.00 |14.28 |135|
-|Mixed| 2.26| 14.42 |7,398|
+|MusicRecording| 2.52 | 11.77 | 154 |
+|Person | 1.56 | 7.71 | 2,970 |
+|Recipe | 1.76 | 21.95 | 2,387 |
+|Restaurant | 3.15 | 14.69 | 1,786 |
+|SportsEvent | 4.00 | 14.28 | 135 |
+|Mixed | 2.26 | 14.42 |7,398|
 
 Note that while
 there is only one root entity, most pages describe more than one entity
