@@ -1,6 +1,6 @@
 # ESWC-16 Open Knowledge Extraction (OKE) Challenge
 
-This folder contains guidelines and materials for the Open Knowledge Extraction challenge at ESWC2016.
+This folder contains guidelines and materials for the Open Knowledge Extraction challenge at [ESWC 2016](http://2016.eswc-conferences.org/).
 
 
 The OKE challenge, launched as [first edition](https://github.com/anuzzolese/oke-challenge) at last year Extended Semantic Web Conference, ESWC2015, has the ambition to provide a reference framework for research on Knowledge Extraction from text for the Semantic Web by re-defining a number of tasks (typically from information and knowledge extraction), taking into account specific SW requirements. 
@@ -25,6 +25,7 @@ The **Gold Standard data** is available in folder [GoldStandard_sampleData](./Go
 - **Notifications** sent to participants: Friday April 8th, 2016
 - **Test data** published: Friday April 8th, 2016
 - **Camera ready** papers due: Sunday April 24th, 2016​
+- [ESWC 2016](http://2016.eswc-conferences.org/) conference: May 29th - June 2nd,ß 2016
 
 Participants must:
 
