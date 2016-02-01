@@ -203,6 +203,11 @@ Note that while
 there is only one root entity, most pages describe more than one entity
 (e.g., for music recordings, there may also be entities for the artist and
 the record label).
+In addition, the cleaning of the HTML pages might remove information (e.g. within <meta>-tags) 
+which originally could be used to gather structured information from. Information, annotated 
+in such a way would not be included in HTML pages which do not use schema.org as markup, as they 
+are not visible to the visitor of the page at all. We there remove those information and therefore 
+a recall of 1.0 might not be possible in such cases.
 
 ###Evaluation
 
