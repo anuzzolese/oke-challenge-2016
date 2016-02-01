@@ -166,7 +166,7 @@ with annotations removed.
 
 [Evaluation data](http://data.dws.informatik.uni-mannheim.de/LD4IE/2016/data/test):
 - The evaluation data consists of Web pages (not contained in the
-training corpus) with structured annotations.
+training corpus) which originally contained structured annotations.
 - For those Web pages, the extracted triples are not published,
 and as the annotations are removed, they cannot be trivially
 reconstructed.
