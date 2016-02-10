@@ -1435,7 +1435,7 @@ oke:Salvatore_Quasimodo
 
 oke:Research  a     owl:Individual , dul:Role ;
         rdfs:label  "Research"@en ;
-        owl:sameAs  <http://dbpedia.org/page/Research> .
+        owl:sameAs  <http://dbpedia.org/resource/Research> .
 
 oke:Nadine_Gordimer  a  owl:Individual , dul:Person ;
         rdfs:label  "Nadine Gordimer"@en ;
