@@ -7023,21 +7023,21 @@ oke:Frank_Azell  a  dul:Person , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-104#char=0,121> ;
         itsrdf:taIdentRef     oke:Albert_Lutuli .
 
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-5#char=40,56>
+        a                     nif:RFC5147String , nif:String ;
+        nif:anchorOf          "Wisconsin Senate"@en ;
+        nif:beginIndex        "40"^^xsd:int ;
+        nif:endIndex          "56"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-5#char=0,125> ;
+        itsrdf:taIdentRef     oke:Wisconsin_Senate .
+
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-5#char=26,32>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "member"@en ;
-        nif:beginIndex        "26"^^xsd:int ;
-        nif:endIndex          "32"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-5#char=0,125> ;
-        itsrdf:taIdentRef     oke:Member .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-5#char=17,23>
-        a                     nif:RFC5147String , nif:String ;
-        nif:anchorOf          "member"@en ;
-        nif:beginIndex        "17"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "23"^^xsd:nonNegativeInteger ;
+        nif:beginIndex        "26"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "32"^^xsd:nonNegativeInteger ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-183#char=0,187> ;
-        itsrdf:taIdentRef     oke:Member .
+        itsrdf:taIdentRef     oke:Member .  
 
 oke:Nelson_Mandela  a  owl:Individual , dul:Person ;
         rdfs:label  "Nelson Mandela"@en ;
