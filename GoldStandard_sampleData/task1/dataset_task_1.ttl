@@ -7036,7 +7036,7 @@ oke:Frank_Azell  a  dul:Person , owl:Individual ;
         nif:anchorOf          "member"@en ;
         nif:beginIndex        "26"^^xsd:nonNegativeInteger ;
         nif:endIndex          "32"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-183#char=0,187> ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-5#char=26,32> ;
         itsrdf:taIdentRef     oke:Member .  
 
 oke:Nelson_Mandela  a  owl:Individual , dul:Person ;
