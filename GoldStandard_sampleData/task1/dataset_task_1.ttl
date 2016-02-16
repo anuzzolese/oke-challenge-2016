@@ -1937,7 +1937,7 @@ oke:Wisconsin_Senate  a  dul:Organization , owl:Individual ;
         nif:anchorOf          "Nickerson"@en ;
         nif:beginIndex        "6"^^xsd:int ;
         nif:endIndex          "15"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,146> ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,147> ;
         itsrdf:taIdentRef     oke:Nickerson .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-2#char=78,97>
@@ -2517,10 +2517,10 @@ oke:Royal_Aircraft_Establishment
         rdfs:label  "Royal Aircraft Establishment"@en ;
         owl:sameAs  dbpedia:Royal_Aircraft_Establishment .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,146>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,147>
         a               nif:Context , nif:RFC5147String , nif:String ;
         nif:beginIndex  "0"^^xsd:int ;
-        nif:endIndex    "146"^^xsd:int ;
+        nif:endIndex    "147"^^xsd:int ;
         nif:isString    "Judge Nickerson came from patrician Yankee stock, and was a descendant both of the Nickerson family of Cape Cod and of President John Quincy Adams."@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-120#char=375,386>
@@ -3012,12 +3012,12 @@ oke:His_4  a        owl:Individual , dul:Person ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-38#char=0,141> ;
         itsrdf:taIdentRef     oke:Man_2 .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=102,110>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=103,111>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Cape Cod"@en ;
-        nif:beginIndex        "102"^^xsd:int ;
-        nif:endIndex          "110"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,146> ;
+        nif:beginIndex        "103"^^xsd:int ;
+        nif:endIndex          "111"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,147> ;
         itsrdf:taIdentRef     oke:Cape_Cod .
 
 oke:Sheriff_1  a    dul:Person , owl:Individual ;
@@ -4801,12 +4801,12 @@ oke:Queen_regnant  a  owl:Individual , dul:Role ;
         rdfs:label  "Queen regnant"@en ;
         owl:sameAs  dbpedia:Queen_regnant .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=128,145>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=129,146>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "John Quincy Adams"@en ;
-        nif:beginIndex        "128"^^xsd:int ;
-        nif:endIndex          "145"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,146> ;
+        nif:beginIndex        "129"^^xsd:int ;
+        nif:endIndex          "146"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,147> ;
         itsrdf:taIdentRef     oke:John_Quincy_Adams .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-164#char=48,68>
@@ -5143,7 +5143,7 @@ oke:Paul_Polillo  a  dul:Person , owl:Individual ;
         nif:anchorOf          "Nickerson family"@en ;
         nif:beginIndex        "83"^^xsd:int ;
         nif:endIndex          "99"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,146> ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,147> ;
         itsrdf:taIdentRef     oke:Nickerson_family .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-34#char=19,22>
@@ -8396,12 +8396,12 @@ oke:Hon  a          dul:Organization , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-147#char=0,155> ;
         itsrdf:taIdentRef     oke:Holy_See .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=118,127>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=119,128>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "President"@en ;
-        nif:beginIndex        "118"^^xsd:int ;
-        nif:endIndex          "127"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,146> ;
+        nif:beginIndex        "119"^^xsd:int ;
+        nif:endIndex          "128"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,147> ;
         itsrdf:taIdentRef     oke:President_of_the_United_States .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-120#char=250,253>
@@ -10932,7 +10932,7 @@ oke:Harlequin  a    owl:Individual , dul:Person ;
         nif:anchorOf          "Judge"@en ;
         nif:beginIndex        "0"^^xsd:int ;
         nif:endIndex          "5"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,146> ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,147> ;
         itsrdf:taIdentRef     oke:Judge .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-96#char=0,206>
