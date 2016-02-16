@@ -5138,11 +5138,11 @@ oke:Paul_Polillo  a  dul:Person , owl:Individual ;
         rdfs:label  "Paul Polillo"@en ;
         owl:sameAs  dbpedia:Paul_Polillo .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=82,98>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=83,99>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Nickerson family"@en ;
-        nif:beginIndex        "82"^^xsd:int ;
-        nif:endIndex          "98"^^xsd:int ;
+        nif:beginIndex        "83"^^xsd:int ;
+        nif:endIndex          "99"^^xsd:int ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,146> ;
         itsrdf:taIdentRef     oke:Nickerson_family .
 
