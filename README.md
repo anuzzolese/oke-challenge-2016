@@ -20,7 +20,7 @@ The **Gold Standard data** is available in folder [GoldStandard_sampleData](./Go
 
 # Important Dates
 
-- Challenge **papers** submission deadline: Friday March 11th, 2016
+- Challenge **papers** submission deadline: Monday March 21st, 2016
 - Challenge paper **reviews due**: Tuesday April 5th, 2016
 - **Notifications** sent to participants: Friday April 8th, 2016
 - **Test data** published: Friday April 8th, 2016
@@ -29,7 +29,7 @@ The **Gold Standard data** is available in folder [GoldStandard_sampleData](./Go
 
 Participants must:
 
-1. Submit a paper describing their system, via [EasyChair](https://easychair.org/conferences/?conf=oke2016), no later then **March 11th, 2016**. The paper should contain the details of the system, including why the system is innovative, how it uses Semantic Web, which features or functions the system provides, what design choices were made and what lessons were learned. The description should also summarise how participants have addressed the evaluation task(s). Papers must be submitted in PDF format, following the style of the Springer's Lecture Notes in Computer Science (LNCS) series (http://www.springer.com/computer/lncs/lncs+authors), and not exceeding 12 pages in length. 
+1. Submit a paper describing their system, via [EasyChair](https://easychair.org/conferences/?conf=oke2016), no later then **March 21st, 2016**. The paper should contain the details of the system, including why the system is innovative, how it uses Semantic Web, which features or functions the system provides, what design choices were made and what lessons were learned. The description should also summarise how participants have addressed the evaluation task(s). Papers must be submitted in PDF format, following the style of the Springer's Lecture Notes in Computer Science (LNCS) series (http://www.springer.com/computer/lncs/lncs+authors), and not exceeding 12 pages in length. 
 Accepted challenge papers will be published by Springer in the [CCIS series](http://www.springer.com/series/7899). 
 The best challenge papers will be also published in the Satellite Event proceedings (a separate Springer LNCS Volume) of [ESWC2016](http://2016.eswc-conferences.org).
 
