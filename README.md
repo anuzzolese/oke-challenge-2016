@@ -256,5 +256,6 @@ _:1    schema.org/url    google.com    yahoo.com
 - [Francesco Poggi](https://www.unibo.it/sitoweb/francesco.poggi5/en), Univeristy of Bologna, Italy
 - [Diego Reforgiato](http://www.istc.cnr.it/people/diego-reforgiato-recupero), STLab-CNR, Italy
 - [Dominique Ritze](http://dws.informatik.uni-mannheim.de/en/people/researchers/dominiqueritze/), University of Mannheim, Germany
+- [Sanja Štajner](http://dws.informatik.uni-mannheim.de/en/people/researchers/dr-sanja-stajner/), University of Mannheim, Germany
 - [Ziqi Zhang](http://staffwww.dcs.shef.ac.uk/people/Z.Zhang/), University of Sheffield, UK
 
