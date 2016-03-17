@@ -7644,7 +7644,7 @@ oke:Chattanooga  a  dul:Organization , owl:Individual ;
         rdfs:label  "Chattanooga"@en ;
         owl:sameAs  <http://dbpedia.org/resource/Chattanooga,_Tennessee> .
 
-oke:Jews  a         owl:Individual , dul:Person ;
+oke:Jews  a         owl:Individual , dul:Role ;
         rdfs:label  "Jews"@en ;
         owl:sameAs  dbpedia:Jews .
 
