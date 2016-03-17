@@ -103,7 +103,7 @@ The list of the classes part of this subset is the following:
 | Ontology class |	Label | Gloss | Examples |
 |:---------------|:-------|:------|:---------|
 | dul:Abstract	 | Abstract | Anything that cannot be located in space-time. | Vectors, sets, fractals, equations, etc. |
-|d0:Activity Action, activity or task | Any action or task planned or executed by an agent intentionally causing and participating in it. | Swimming, shopping, knowledge sharing, etc. |
+|d0:Activity | Action, activity or task | Any action or task planned or executed by an agent intentionally causing and participating in it. | Swimming, shopping, knowledge sharing, etc. |
 | dul:Amount | Amount, quantity | Any quantity, independently from how it is measured, computed, etc. | kelvin, angstrom, quarter mile, silver dollar, deadline, etc. |
 | d0:Characteristic | Quality, feature, attribute | An aspect or quality of a thing. | radial symmetry, poker face, alkalinity, attractiveness, darkness, etc. |
 | dul:Collection | Collection or social group | A container or group of things (or agents) that share one or more common properties. | coin collection, checkout line, public library, Milky Way, etc. |
