@@ -2555,6 +2555,18 @@ oke:Royal_Aircraft_Establishment
         nif:endIndex    "147"^^xsd:int ;
         nif:isString    "Judge Nickerson came from patrician Yankee stock, and was a descendant both of the Nickerson family of Cape Cod and of President John Quincy Adams."@en .
 
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=6,15>
+        a                     nif:RFC5147String , nif:String ;
+        nif:anchorOf          "patrician Yankee"@en ;
+        nif:beginIndex        "6"^^xsd:int ;
+        nif:endIndex          "15"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-17#char=0,147> ;
+        itsrdf:taIdentRef     oke:patrician_Yankee .
+
+oke:patrician_Yankee
+        a           owl:Individual , dul:Organization ;
+        rdfs:label  "patrician Yankee"@en .
+
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-120#char=375,386>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Maihue Lake"@en ;
