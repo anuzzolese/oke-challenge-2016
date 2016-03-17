@@ -7644,7 +7644,7 @@ oke:Chattanooga  a  dul:Organization , owl:Individual ;
         rdfs:label  "Chattanooga"@en ;
         owl:sameAs  <http://dbpedia.org/resource/Chattanooga,_Tennessee> .
 
-oke:Jews  a         owl:Individual , dul:Role ;
+oke:Jews  a         owl:Individual , dul:Person ;
         rdfs:label  "Jews"@en ;
         owl:sameAs  dbpedia:Jews .
 
@@ -9293,7 +9293,7 @@ oke:Putney  a       dul:Place , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-139#char=0,131> ;
         itsrdf:taIdentRef     oke:Giuseppe_Levi .
 
-oke:poet  a         dul:Person , owl:Individual ;
+oke:poet  a         dul:Role , owl:Individual ;
         rdfs:label  "poet"@en ;
         owl:sameAs  dbpedia:Poet .
 
