@@ -263,12 +263,12 @@ oke:assistant_professor
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-44#char=0,174> ;
         itsrdf:taIdentRef     oke:Andrea_Pole .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=51,59>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=52,60>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "director"@en ;
-        nif:beginIndex        "51"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "59"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,139> ;
+        nif:beginIndex        "52"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "60"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,140> ;
         itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-Director_(business)> .
 
 oke:University_of_Manchester
@@ -414,12 +414,12 @@ oke:Maria_Goeppert-Mayer
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-94#char=0,69> ;
         itsrdf:taIdentRef     oke:Senator_1 .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=67,100>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=68,101>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Institute of Industrial Chemistry"@en ;
-        nif:beginIndex        "67"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "100"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,139> ;
+        nif:beginIndex        "68"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "101"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,140> ;
         itsrdf:taIdentRef     oke:Institute_of_Industrial_Chemistry .
 
 oke:fashion_illustrator
@@ -481,12 +481,12 @@ oke:HC_CSKA_Moscow  a  dul:Organization , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-141#char=0,322> ;
         itsrdf:taIdentRef     oke:Rita_Levi-Montalcini .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=31,51>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=32,52>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Rita Levi-Montalcini"@en ;
-        nif:beginIndex        "31"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "51"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,191> ;
+        nif:beginIndex        "32"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "52"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,192> ;
         itsrdf:taIdentRef     oke:Rita_Levi-Montalcini .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-188#char=0,160>
@@ -758,12 +758,12 @@ oke:New_London_County
         rdfs:label  "New London County"@en ;
         owl:sameAs  <http://dbpedia.org/resource/New_London_County,_Connecticut> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=61,63>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=63,65>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "he"@en ;
-        nif:beginIndex        "61"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "63"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,207> ;
+        nif:beginIndex        "63"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "65"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,209> ;
         itsrdf:taIdentRef     oke:Albert_Lutuli .
 
 oke:Salk_Institute  a  owl:Individual , dul:Organization ;
@@ -862,11 +862,11 @@ oke:Master_of_Science
         rdfs:label  "Master of Science"@en ;
         owl:sameAs  dbpedia:Master_of_Science .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,94>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,95>
         a               nif:Context , nif:RFC5147String , nif:String ;
         nif:beginIndex  "0"^^xsd:int ;
-        nif:endIndex    "94"^^xsd:int ;
-        nif:isString    "In 1943 Eugene Nickerson graduated from a university where he was an editor of the law review."@en .
+        nif:endIndex    "95"^^xsd:int ;
+        nif:isString    "In 1943, Eugene Nickerson graduated from a university where he was an editor of the law review."@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-125#char=106,108>
         a                     nif:RFC5147String , nif:String ;
@@ -1387,11 +1387,11 @@ oke:Paul_Samuelson  a  owl:Individual , dul:Person ;
         rdfs:label  "Paul Samuelson"@en ;
         owl:sameAs  dbpedia:Paul_Samuelson .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,191>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,192>
         a               nif:Context , nif:RFC5147String , nif:String ;
         nif:beginIndex  "0"^^xsd:nonNegativeInteger ;
-        nif:endIndex    "191"^^xsd:nonNegativeInteger ;
-        nif:isString    "Born on 22 April 1909 at Turin Rita Levi-Montalcini were the youngest of four children. Her parents were Adele Montalcini, a painter, and Adamo Levi, an electrical engineer and mathematician."@en .
+        nif:endIndex    "192"^^xsd:nonNegativeInteger ;
+        nif:isString    "Born on 22 April 1909 at Turin, Rita Levi-Montalcini were the youngest of four children. Her parents were Adele Montalcini, a painter, and Adamo Levi, an electrical engineer and mathematician."@en .
 
 oke:Carlo_Rubbia  a  owl:Individual , dul:Person ;
         rdfs:label  "Carlo Rubbia"@en ;
@@ -1507,12 +1507,12 @@ oke:United_States_House_of_Representatives
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-128#char=0,218> ;
         itsrdf:taIdentRef     oke:Vladimir_Prelog .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=177,190>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=178,191>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "mathematician"@en ;
-        nif:beginIndex        "177"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "190"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,191> ;
+        nif:beginIndex        "178"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "191"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,192> ;
         itsrdf:taIdentRef     oke:Mathematician .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-183#char=0,11>
@@ -1550,6 +1550,14 @@ oke:United_States_House_of_Representatives
         nif:anchorOf          "Walter Erle"@en ;
         nif:beginIndex        "0"^^xsd:int ;
         nif:endIndex          "11"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-90#char=0,313> ;
+        itsrdf:taIdentRef     oke:Walter_Erle .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-90#char=234,245>
+        a                     nif:RFC5147String , nif:String ;
+        nif:anchorOf          "Walter Erle"@en ;
+        nif:beginIndex        "234"^^xsd:int ;
+        nif:endIndex          "245"^^xsd:int ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-90#char=0,313> ;
         itsrdf:taIdentRef     oke:Walter_Erle .
 
@@ -1681,12 +1689,12 @@ oke:Dorothy_Pole  a  dul:Place , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-27#char=0,119> ;
         itsrdf:taIdentRef     oke:President_of_the_United_States .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=88,91>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=89,92>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Her"@en ;
-        nif:beginIndex        "88"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "91"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,191> ;
+        nif:beginIndex        "89"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "92"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,192> ;
         itsrdf:taIdentRef     oke:Rita_Levi-Montalcini .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-141#char=132,148>
@@ -1768,12 +1776,12 @@ oke:Scofield_Thayer  a  owl:Individual , dul:Person ;
         rdfs:label  "Scofield Thayer"@en ;
         owl:sameAs  dbpedia:Scofield_Thayer .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=75,78>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=76,79>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "his"@en ;
-        nif:beginIndex        "75"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "78"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,125> ;
+        nif:beginIndex        "76"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "79"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,126> ;
         itsrdf:taIdentRef     oke:His_2 .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-132#char=0,11>
@@ -2369,12 +2377,12 @@ oke:Chris_Corrigan  a  dul:Person , owl:Individual ;
 oke:Hospital  a     owl:Individual , dul:Place ;
         rdfs:label  "Hospital"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=42,52>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=43,53>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "university"@en ;
-        nif:beginIndex        "42"^^xsd:int ;
-        nif:endIndex          "52"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,94> ;
+        nif:beginIndex        "43"^^xsd:int ;
+        nif:endIndex          "53"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,95> ;
         itsrdf:taIdentRef     oke:University .
 
 oke:Giulio_Natta  a  owl:Individual , dul:Person ;
@@ -2426,11 +2434,11 @@ oke:Canadians  a    owl:Individual , dul:Person ;
         rdfs:label  "Canadians"@en ;
         owl:sameAs  dbpedia:Canadians .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=0,147>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=0,148>
         a               nif:Context , nif:RFC5147String , nif:String ;
         nif:beginIndex  "0"^^xsd:int ;
-        nif:endIndex    "147"^^xsd:int ;
-        nif:isString    "In 1855 Samuel Clegg was sent by the government to Demerara to report upon the sea walls there, and to superintend the works for their restoration."@en .
+        nif:endIndex    "148"^^xsd:int ;
+        nif:isString    "In 1855, Samuel Clegg was sent by the government to Demerara to report upon the sea walls there, and to superintend the works for their restoration."@en .
 
 oke:Martti_Ahtisaari  a  owl:Individual , dul:Person ;
         rdfs:label  "Martti Ahtisaari"@en ;
@@ -3114,7 +3122,7 @@ oke:Argentina  a    owl:Individual , dul:Place ;
         nif:anchorOf          "London"@en ;
         nif:beginIndex        "32"^^xsd:nonNegativeInteger ;
         nif:endIndex          "38"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,125> ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,126> ;
         itsrdf:taIdentRef     oke:London .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-117#char=0,119>
@@ -3182,12 +3190,12 @@ oke:Cleopatra_Mathis  a  dul:Person , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-36#char=0,160> ;
         itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Madison,_Wisconsin> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=111,124>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=112,125>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Marcel Proust"@en ;
-        nif:beginIndex        "111"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "124"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,125> ;
+        nif:beginIndex        "112"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "125"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,126> ;
         itsrdf:taIdentRef     oke:Marcel_Proust .
 
 oke:Des_Moines  a   dul:Place , owl:Individual ;
@@ -3216,11 +3224,11 @@ oke:Richard_Kuhn  a  owl:Individual , dul:Person ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-129#char=0,189> ;
         itsrdf:taIdentRef     oke:Leopold_Ružička .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,207>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,209>
         a               nif:Context , nif:RFC5147String , nif:String ;
         nif:beginIndex  "0"^^xsd:nonNegativeInteger ;
-        nif:endIndex    "207"^^xsd:nonNegativeInteger ;
-        nif:isString    "In 1944 Lutuli joined the African National Congress. In 1945 he was elected to the Committee of the KwaZulu Provincial Division of the African National Congress and in 1951 to the presidency of the Division."@en .
+        nif:endIndex    "209"^^xsd:nonNegativeInteger ;
+        nif:isString    "In 1944, Lutuli joined the African National Congress. In 1945, he was elected to the Committee of the KwaZulu Provincial Division of the African National Congress and in 1951 to the presidency of the Division."@en .
 
 oke:Maihue_Lake  a  owl:Individual , dul:Place ;
         rdfs:label  "Maihue Lake"@en ;
@@ -3259,11 +3267,11 @@ oke:Wolfgang_Joseph_Pauli
         a           owl:Individual , dul:Person ;
         rdfs:label  "Wolfgang Joseph Pauli"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,139>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,140>
         a               nif:Context , nif:RFC5147String , nif:String ;
         nif:beginIndex  "0"^^xsd:nonNegativeInteger ;
-        nif:endIndex    "139"^^xsd:nonNegativeInteger ;
-        nif:isString    "From 1936 to 1938 he moved as a full professor and director of the Institute of Industrial Chemistry at the Polytechnic Institute of Turin."@en .
+        nif:endIndex    "140"^^xsd:nonNegativeInteger ;
+        nif:isString    "From 1936 to 1938, he moved as a full professor and director of the Institute of Industrial Chemistry at the Polytechnic Institute of Turin."@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-131#char=80,83>
         a                     nif:RFC5147String , nif:String ;
@@ -3303,7 +3311,7 @@ oke:PTR  a          owl:Individual , dul:Organization ;
         nif:anchorOf          "novelist"@en ;
         nif:beginIndex        "4"^^xsd:nonNegativeInteger ;
         nif:endIndex          "12"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,125> ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,126> ;
         itsrdf:taIdentRef     oke:Novelist .
 
 oke:Joshua_Fry_Speed  a  dul:Person , owl:Individual ;
@@ -3513,12 +3521,12 @@ oke:Archaeology  a  owl:Individual , dul:Role ;
         nif:endIndex    "119"^^xsd:int ;
         nif:isString    "Soon Mr. Nickerson received a letter from the president in which Roosevelt discussed the disabilities they both shared."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=8,14>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=9,15>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Lutuli"@en ;
-        nif:beginIndex        "8"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "14"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,207> ;
+        nif:beginIndex        "9"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "15"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,209> ;
         itsrdf:taIdentRef     oke:Albert_Lutuli .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-154#char=45,73>
@@ -4034,11 +4042,11 @@ oke:Collège_de_France
         rdfs:label  "Collège de France"@en ;
         owl:sameAs  dbpedia:Collège_de_France .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,288>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,289>
         a               nif:Context , nif:RFC5147String , nif:String ;
         nif:beginIndex  "0"^^xsd:nonNegativeInteger ;
-        nif:endIndex    "288"^^xsd:nonNegativeInteger ;
-        nif:isString    "In recent years Elizabeth Blackburn and her colleagues have been investigating the effect of stress on telomerase and telomeres with particular emphasis on mindfulness meditation. She appeared in the 1995 science documentary Death by Design/The Life and Times of Life and Times in the US."@en .
+        nif:endIndex    "289"^^xsd:nonNegativeInteger ;
+        nif:isString    "In recent years, Elizabeth Blackburn and her colleagues have been investigating the effect of stress on telomerase and telomeres with particular emphasis on mindfulness meditation. She appeared in the 1995 science documentary Death by Design/The Life and Times of Life and Times in the US."@en .
 
 oke:Street_1  a     dul:Place , owl:Individual ;
         rdfs:label  "street"@en .
@@ -4089,7 +4097,7 @@ oke:Lombardy  a     owl:Individual , dul:Place ;
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-194#char=149,158>
         a                     nif:RFC5147String , nif:String ;
-        nif:anchorOf          "physicist "@en ;
+        nif:anchorOf          "physicist"@en ;
         nif:beginIndex        "149"^^xsd:nonNegativeInteger ;
         nif:endIndex          "158"^^xsd:nonNegativeInteger ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-194#char=0,170> ;
@@ -4203,12 +4211,12 @@ oke:City_University_of_New_York_Graduate_Center
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-123#char=0,199> ;
         itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-Director_(business)> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=18,20>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=19,21>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "he"@en ;
-        nif:beginIndex        "18"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "20"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,139> ;
+        nif:beginIndex        "19"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "21"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,140> ;
         itsrdf:taIdentRef     oke:He_2 .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-103#char=0,14>
@@ -4335,12 +4343,12 @@ oke:University_of_Pennsylvania
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-139#char=0,131> ;
         itsrdf:taIdentRef     oke:She_2 .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=26,51>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=27,52>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "African National Congress"@en ;
-        nif:beginIndex        "26"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "51"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,207> ;
+        nif:beginIndex        "27"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "52"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,209> ;
         itsrdf:taIdentRef     oke:African_National_Congress .
 
 oke:Basel_Institute_for_Immunology
@@ -4530,11 +4538,11 @@ oke:Germany  a      owl:Individual , dul:Place ;
         nif:endIndex    "220"^^xsd:int ;
         nif:isString    "Cleopatra Mathis is an American poet who since 1982 has been the Frederick Sessions Beebe Professor in the English department at Dartmouth College, where Cleopatra Mathis is also director of the Creative Writing Program."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-86#char=33,37>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-86#char=65,99>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Frederick Sessions Beebe Professor"@en ;
-        nif:beginIndex        "33"^^xsd:int ;
-        nif:endIndex          "37"^^xsd:int ;
+        nif:beginIndex        "65"^^xsd:int ;
+        nif:endIndex          "99"^^xsd:int ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-86#char=0,220> ;
         itsrdf:taIdentRef     oke:Frederick_Sessions_Beebe_Professor .
 
@@ -4763,12 +4771,12 @@ oke:She_5  a        owl:Individual , dul:Person ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-46#char=0,193> ;
         itsrdf:taIdentRef     oke:Harold_Duane_Vietor .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=32,46>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=33,47>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "full professor"@en ;
-        nif:beginIndex        "32"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "46"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,139> ;
+        nif:beginIndex        "33"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "47"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,140> ;
         itsrdf:taIdentRef     oke:Professor .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-169#char=51,77>
@@ -5331,12 +5339,12 @@ oke:Cape_Province  a  owl:Individual , dul:Place ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-157#char=0,223> ;
         itsrdf:taIdentRef     oke:Lucy_Ramberg .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=180,183>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=181,184>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "She"@en ;
-        nif:beginIndex        "180"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "183"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,288> ;
+        nif:beginIndex        "181"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "184"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,289> ;
         itsrdf:taIdentRef     oke:Elizabeth_Blackburn .
 
 oke:Walter_Ramberg  a  owl:Individual , dul:Person ;
@@ -5486,12 +5494,12 @@ oke:Electrical_Engineer
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-173#char=0,176> ;
         itsrdf:taIdentRef     oke:Alice_Munro .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=108,138>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=109,139>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Polytechnic Institute of Turin"@en ;
-        nif:beginIndex        "108"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "138"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,139> ;
+        nif:beginIndex        "109"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "139"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-106#char=0,140> ;
         itsrdf:taIdentRef     oke:Polytechnic_University_of_Turin .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-129#char=38,44>
@@ -6265,12 +6273,12 @@ oke:Ottawa  a       dul:Place , owl:Individual ;
         nif:endIndex    "92"^^xsd:int ;
         nif:isString    "Academy Award-winning actress Joanne Woodward majored in drama during her enrollment at LSU."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=104,110>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=105,111>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "author"@en ;
-        nif:beginIndex        "104"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "110"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,125> ;
+        nif:beginIndex        "105"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "111"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,126> ;
         itsrdf:taIdentRef     oke:Author .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-163#char=0,114>
@@ -6498,12 +6506,12 @@ oke:U.S._Coast_Guard_Reserve
         rdfs:label  "U.S. Coast Guard Reserve"@en ;
         owl:sameAs  dbpedia:United_States_Coast_Guard_Reserve .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=100,127>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=102,129>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "KwaZulu Provincial Division"@en ;
-        nif:beginIndex        "100"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "127"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,207> ;
+        nif:beginIndex        "102"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "129"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,209> ;
         itsrdf:taIdentRef     oke:KwaZulu-Natal_Division .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-128#char=145,154>
@@ -6619,11 +6627,11 @@ oke:London_School_of_Economics
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-71#char=0,143> ;
         itsrdf:taIdentRef     oke:artist .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-86#char=33,37>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-86#char=32,36>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "poet"@en ;
-        nif:beginIndex        "33"^^xsd:int ;
-        nif:endIndex          "37"^^xsd:int ;
+        nif:beginIndex        "32"^^xsd:int ;
+        nif:endIndex          "36"^^xsd:int ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-86#char=0,220> ;
         itsrdf:taIdentRef     oke:poet .
 
@@ -7160,12 +7168,12 @@ oke:Frédéric_Joliot-Curie
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-92#char=0,67> ;
         itsrdf:taIdentRef     oke:County_1 .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=16,35>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=17,36>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Elizabeth Blackburn"@en ;
-        nif:beginIndex        "16"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "35"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,288> ;
+        nif:beginIndex        "17"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "36"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,289> ;
         itsrdf:taIdentRef     oke:Elizabeth_Blackburn .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-1#char=16,35>
@@ -7555,12 +7563,12 @@ oke:Joint_Security_Area
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-183#char=0,187> ;
         itsrdf:taIdentRef     oke:Israel_Academy_of_Sciences_and_Humanities .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=8,24>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=9,25>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Eugene Nickerson"@en ;
-        nif:beginIndex        "8"^^xsd:int ;
-        nif:endIndex          "24"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,94> ;
+        nif:beginIndex        "9"^^xsd:int ;
+        nif:endIndex          "25"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,95> ;
         itsrdf:taIdentRef     oke:Eugene_Nickerson .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-15#char=127,135>
@@ -8075,12 +8083,12 @@ oke:Al_Gore  a      dul:Person , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-193#char=0,198> ;
         itsrdf:taIdentRef     oke:Richard_Adolf_Zsigmondy .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=40,43>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=41,44>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "her"@en ;
-        nif:beginIndex        "40"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "43"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,288> ;
+        nif:beginIndex        "41"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "44"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,289> ;
         itsrdf:taIdentRef     oke:Elizabeth_Blackburn .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-99#char=120,129>
@@ -8195,12 +8203,12 @@ oke:Americans  a    owl:Individual , dul:Person ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-72#char=0,84> ;
         itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cedar_Rapids,_Iowa> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=37,47>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=38,48>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "government"@en ;
-        nif:beginIndex        "37"^^xsd:int ;
-        nif:endIndex          "47"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=0,147> ;
+        nif:beginIndex        "38"^^xsd:int ;
+        nif:endIndex          "48"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=0,148> ;
         itsrdf:taIdentRef     oke:Government .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-156#char=68,70>
@@ -8324,7 +8332,7 @@ oke:Iowa_District_Court
         nif:anchorOf          "Turin"@en ;
         nif:beginIndex        "25"^^xsd:nonNegativeInteger ;
         nif:endIndex          "30"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,191> ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,192> ;
         itsrdf:taIdentRef     oke:Turin .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-105#char=0,235>
@@ -8633,12 +8641,12 @@ oke:Israel_Academy_of_Sciences_and_Humanities
 oke:Family_3  a     owl:Individual , dul:Organization ;
         rdfs:label  "Family_3"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=135,160>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=137,162>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "African National Congress"@en ;
-        nif:beginIndex        "135"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "160"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,207> ;
+        nif:beginIndex        "137"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "162"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,209> ;
         itsrdf:taIdentRef     oke:African_National_Congress .
 
 oke:Harvard_University
@@ -9225,12 +9233,12 @@ oke:Canada  a       owl:Individual , dul:Place ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-105#char=0,235> ;
         itsrdf:taIdentRef     oke:Italy .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=198,206>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=200,208>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Division"@en ;
-        nif:beginIndex        "198"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "206"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,207> ;
+        nif:beginIndex        "200"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "208"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-102#char=0,209> ;
         itsrdf:taIdentRef     oke:KwaZulu-Natal_Division .
 
 oke:graduate  a     dul:Person , owl:Individual ;
@@ -9517,12 +9525,12 @@ oke:Hibiya_High_School
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-169#char=0,155> ;
         itsrdf:taIdentRef     oke:Mario .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=69,75>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=70,76>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "editor"@en ;
-        nif:beginIndex        "69"^^xsd:int ;
-        nif:endIndex          "75"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,94> ;
+        nif:beginIndex        "70"^^xsd:int ;
+        nif:endIndex          "76"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,95> ;
         itsrdf:taIdentRef     oke:editor .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-78#char=0,139>
@@ -9867,12 +9875,12 @@ oke:sniper  a       dul:Role , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-174#char=0,226> ;
         itsrdf:taIdentRef     oke:Shinya_Yamanaka .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=138,148>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=139,149>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Adamo Levi"@en ;
-        nif:beginIndex        "138"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "148"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,191> ;
+        nif:beginIndex        "139"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "149"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,192> ;
         itsrdf:taIdentRef     oke:Adamo_Levi .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-189#char=85,95>
@@ -10039,12 +10047,12 @@ oke:Faculty  a      owl:Individual , dul:Organization ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-88#char=0,206> ;
         itsrdf:taIdentRef     oke:David_Campbell .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=153,172>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=154,173>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "electrical engineer"@en ;
-        nif:beginIndex        "153"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "172"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,191> ;
+        nif:beginIndex        "154"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "173"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,192> ;
         itsrdf:taIdentRef     oke:Electrical_Engineer .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-101#char=97,106>
@@ -10153,12 +10161,12 @@ oke:Jesus  a        owl:Individual , dul:Person ;
         rdfs:label  "Jesus"@en ;
         owl:sameAs  dbpedia:Jesus .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=125,132>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=126,133>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "painter"@en ;
-        nif:beginIndex        "125"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "132"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,191> ;
+        nif:beginIndex        "126"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "133"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,192> ;
         itsrdf:taIdentRef     oke:Painter .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-23#char=109,118>
@@ -10197,12 +10205,12 @@ oke:Sephardi_Jews  a  owl:Individual , dul:Organization ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-142#char=0,85> ;
         itsrdf:taIdentRef     oke:President .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=97,103>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=98,104>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "French"@en ;
-        nif:beginIndex        "97"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "103"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,125> ;
+        nif:beginIndex        "98"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "104"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,126> ;
         itsrdf:taIdentRef     oke:French_people .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-195#char=0,5>
@@ -10410,12 +10418,12 @@ oke:Biochemist  a   owl:Individual , dul:Role ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-147#char=0,155> ;
         itsrdf:taIdentRef     oke:Bishop .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=54,56>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=55,57>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "he"@en ;
-        nif:beginIndex        "54"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "56"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,125> ;
+        nif:beginIndex        "55"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "57"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,126> ;
         itsrdf:taIdentRef     oke:He_4 .
 
 oke:University_of_Arizona
@@ -10531,12 +10539,12 @@ oke:Pasteur_Institute
         rdfs:label  "Pasteur Institute"@en ;
         owl:sameAs  dbpedia:Pasteur_Institute .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=105,121>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=106,122>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Adele Montalcini"@en ;
-        nif:beginIndex        "105"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "121"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,191> ;
+        nif:beginIndex        "106"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "122"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-138#char=0,192> ;
         itsrdf:taIdentRef     oke:Adele_Montalcini .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-149#char=48,61>
@@ -10806,12 +10814,12 @@ oke:New_Dramatists  a  dul:Organization , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-23#char=0,262> ;
         itsrdf:taIdentRef     oke:Louisiana_State_University .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=285,287>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=286,288>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "US"@en ;
-        nif:beginIndex        "285"^^xsd:nonNegativeInteger ;
-        nif:endIndex          "287"^^xsd:nonNegativeInteger ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,288> ;
+        nif:beginIndex        "286"^^xsd:nonNegativeInteger ;
+        nif:endIndex          "288"^^xsd:nonNegativeInteger ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-178#char=0,289> ;
         itsrdf:taIdentRef     oke:United_States .
 
 oke:Preacher  a     owl:Individual , dul:Role ;
@@ -11222,12 +11230,12 @@ oke:Jack_Conroy  a  dul:Person , owl:Individual ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-130#char=0,267> ;
         itsrdf:taIdentRef     oke:Edward_Mills_Purcell .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=51,59>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=52,60>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Demerara"@en ;
-        nif:beginIndex        "51"^^xsd:int ;
-        nif:endIndex          "59"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=0,147> ;
+        nif:beginIndex        "52"^^xsd:int ;
+        nif:endIndex          "60"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=0,148> ;
         itsrdf:taIdentRef     oke:Demerara .
 
 oke:Michael_Colgrass  a  dul:Person , owl:Individual ;
@@ -11585,11 +11593,11 @@ oke:Albert_Lutuli  a  owl:Individual , dul:Person ;
         rdfs:label  "Albert Lutuli"@en ;
         owl:sameAs  dbpedia:Albert_Lutuli .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,125>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-118#char=0,126>
         a               nif:Context , nif:RFC5147String , nif:String ;
         nif:beginIndex  "0"^^xsd:nonNegativeInteger ;
-        nif:endIndex    "125"^^xsd:nonNegativeInteger ;
-        nif:isString    "The novelist spent some time in London, where in 1931 he published Proust, his critical study of French author Marcel Proust."@en .
+        nif:endIndex    "126"^^xsd:nonNegativeInteger ;
+        nif:isString    "The novelist spent some time in London, where in 1931, he published Proust, his critical study of French author Marcel Proust."@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-113#char=197,200>
         a                     nif:RFC5147String , nif:String ;
@@ -12031,12 +12039,12 @@ oke:civil_engineering
 oke:Activist  a     owl:Individual , dul:Role ;
         rdfs:label  "Activist"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=8,20>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=9,21>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Samuel Clegg"@en ;
-        nif:beginIndex        "8"^^xsd:int ;
-        nif:endIndex          "20"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=0,147> ;
+        nif:beginIndex        "9"^^xsd:int ;
+        nif:endIndex          "21"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=0,148> ;
         itsrdf:taIdentRef     oke:Samuel_Clegg .
 
 oke:Harvard_Medical_School
@@ -12353,12 +12361,12 @@ oke:Chungju_National_University
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-129#char=0,189> ;
         itsrdf:taIdentRef     oke:Leopold_Ružička .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=59,61>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=60,62>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "he"@en ;
-        nif:beginIndex        "59"^^xsd:int ;
-        nif:endIndex          "61"^^xsd:int ;
-        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,94> ;
+        nif:beginIndex        "60"^^xsd:int ;
+        nif:endIndex          "62"^^xsd:int ;
+        nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-45#char=0,95> ;
         itsrdf:taIdentRef     oke:Eugene_Nickerson .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-66#char=82,108>
