@@ -9841,11 +9841,11 @@ oke:Chicago  a      dul:Place , owl:Individual ;
         rdfs:label  "Chicago"@en ;
         owl:sameAs  dbpedia:Chicago .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-73#char=170,184>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-73#char=169,183>
         a                     nif:RFC5147String , nif:String ;
         nif:anchorOf          "Vice-President"@en ;
-        nif:beginIndex        "170"^^xsd:int ;
-        nif:endIndex          "184"^^xsd:int ;
+        nif:beginIndex        "169"^^xsd:int ;
+        nif:endIndex          "183"^^xsd:int ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-73#char=0,192> ;
         itsrdf:taIdentRef     oke:vice-president .
 
