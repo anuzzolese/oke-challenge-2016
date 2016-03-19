@@ -142,7 +142,7 @@ oke:Samuel_Beckett  a  owl:Individual , dul:Person ;
         nif:beginIndex        "104"^^xsd:nonNegativeInteger ;
         nif:endIndex          "123"^^xsd:nonNegativeInteger ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-107#char=0,152> ;
-        itsrdf:taIdentRef     oke:Professor .
+        itsrdf:taIdentRef     oke:Associate_Professor .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-167#char=169,184>
         a                     nif:RFC5147String , nif:String ;
@@ -391,7 +391,7 @@ oke:Alfred_A._Knopf  a  owl:Individual , dul:Organization ;
 oke:Associate_Professor
         a           dul:Role , owl:Individual ;
         rdfs:label  "Associate Professor"@en ;
-        owl:sameAs  dbpedia:Professors_in_the_United_States .
+        owl:sameAs  dbpedia:Associate_Professor .
 
 oke:Maria_Goeppert-Mayer
         a           owl:Individual , dul:Person ;
@@ -972,7 +972,7 @@ oke:Member  a       owl:Individual , dul:Role ;
         nif:beginIndex        "48"^^xsd:nonNegativeInteger ;
         nif:endIndex          "63"^^xsd:nonNegativeInteger ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-115#char=0,258> ;
-        itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-Trinity_College,_Dublin> .
+        itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Trinity_College,_Dublin> .
 
 oke:He_5  a         owl:Individual , dul:Person ;
         rdfs:label  "He_5"@en .
@@ -2180,7 +2180,8 @@ oke:Ghettos  a      owl:Individual , dul:Place ;
 
 oke:Elementary_School
         a           owl:Individual , dul:Organization ;
-        rdfs:label  "Elementary School"@en .
+        rdfs:label  "Elementary School"@en ;
+        owl:sameAs  dbpedia:Primary_school .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-9#char=50,76>
         a                     nif:RFC5147String , nif:String ;
@@ -4161,7 +4162,8 @@ oke:Pauli  a        owl:Individual , dul:Person ;
         itsrdf:taIdentRef     oke:Hungarians .
 
 oke:Medical_School  a  owl:Individual , dul:Organization ;
-        rdfs:label  "Medical School"@en .
+        rdfs:label  "Medical School"@en ;
+        owl:sameAs  dbpedia:Medical_school .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-159#char=104,112>
         a                     nif:RFC5147String , nif:String ;
@@ -5220,7 +5222,8 @@ oke:Paul_Polillo  a  dul:Person , owl:Individual ;
         itsrdf:taIdentRef     oke:Elementary_School .
 
 oke:High_School  a  owl:Individual , dul:Organization ;
-        rdfs:label  "High School"@en .
+        rdfs:label  "High School"@en ;
+        owl:sameAs  dbpedia:High_school .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-163#char=10,19>
         a                     nif:RFC5147String , nif:String ;
@@ -6323,7 +6326,7 @@ oke:Thomas_Pole  a  dul:Person , owl:Individual ;
         nif:beginIndex        "128"^^xsd:nonNegativeInteger ;
         nif:endIndex          "147"^^xsd:nonNegativeInteger ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-169#char=0,156> ;
-        itsrdf:taIdentRef     oke:Professor .
+        itsrdf:taIdentRef     oke:Associate_Professor .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-15#char=0,145>
         a               nif:Context , nif:RFC5147String , nif:String ;
@@ -6942,7 +6945,7 @@ oke:Donna_Brazile  a  dul:Person , owl:Individual ;
         nif:beginIndex        "119"^^xsd:nonNegativeInteger ;
         nif:endIndex          "130"^^xsd:nonNegativeInteger ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-189#char=0,131> ;
-        itsrdf:taIdentRef     oke:Kansas_City_metropolitan_area .
+        itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Kansas_City,_Missouri> .
 
 oke:Nichia  a       owl:Individual , dul:Organization ;
         rdfs:label  "Nichia"@en ;
@@ -8882,7 +8885,7 @@ oke:Frank_Aydelotte  a  owl:Individual , dul:Person ;
         rdfs:label  "Frank Aydelotte"@en ;
         owl:sameAs  dbpedia:Frank_Aydelotte .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-Radiation_Laboratory_(MIT)>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Radiation_Laboratory_(MIT)>
         a           owl:Individual , dul:Organization ;
         rdfs:label  "Radiation Laboratory (MIT)"@en ;
         owl:sameAs  <http://dbpedia.org/resource/Radiation_Laboratory_(MIT)> .
@@ -8891,16 +8894,16 @@ oke:RCA  a          owl:Individual , dul:Organization ;
         rdfs:label  "RCA"@en ;
         owl:sameAs  dbpedia:RCA .
 
-oke:Kansas_City_metropolitan_area
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Kansas_City,_Missouri>
         a           owl:Individual , dul:Place ;
-        rdfs:label  "Kansas City metropolitan area"@en ;
-        owl:sameAs  dbpedia:Kansas_City_metropolitan_area .
+        rdfs:label  "Kansas City, Missouri"@en ;
+        owl:sameAs  <http://dbpedia.org/resource/Kansas_City,_Missouri> .
 
 oke:Schott_AG  a    owl:Individual , dul:Organization ;
         rdfs:label  "Schott AG"@en ;
         owl:sameAs  dbpedia:Schott_AG .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-Trinity_College,_Dublin>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Trinity_College,_Dublin>
         a           owl:Individual , dul:Organization ;
         rdfs:label  "Trinity College, Dublin"@en ;
         owl:sameAs  <http://dbpedia.org/resource/Trinity_College,_Dublin> .
@@ -9401,7 +9404,7 @@ oke:educator  a     dul:Role , owl:Individual ;
         nif:beginIndex        "44"^^xsd:nonNegativeInteger ;
         nif:endIndex          "63"^^xsd:nonNegativeInteger ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-109#char=0,169> ;
-        itsrdf:taIdentRef     oke:Professor .
+        itsrdf:taIdentRef     oke:Associate_Professor .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-20#char=148,162>
         a                     nif:RFC5147String , nif:String ;
@@ -10737,7 +10740,7 @@ oke:Institute_for_Theoretical_Physics
         nif:beginIndex        "242"^^xsd:nonNegativeInteger ;
         nif:endIndex          "266"^^xsd:nonNegativeInteger ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-130#char=0,267> ;
-        itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-Radiation_Laboratory_(MIT)> .
+        itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Radiation_Laboratory_(MIT)> .
 
 oke:His_1  a        owl:Individual , dul:Person ;
         rdfs:label  "His_1"@en .
@@ -11173,7 +11176,7 @@ oke:University_of_Turin
         nif:beginIndex        "29"^^xsd:nonNegativeInteger ;
         nif:endIndex          "44"^^xsd:nonNegativeInteger ;
         nif:referenceContext  <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-117#char=0,119> ;
-        itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-Trinity_College,_Dublin> .
+        itsrdf:taIdentRef     <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Trinity_College,_Dublin> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-121#char=30,36>
         a                     nif:RFC5147String , nif:String ;
