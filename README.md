@@ -276,7 +276,9 @@ _:1    schema.org/url    google.com    yahoo.com
 
 # Program Committee
 
+- [Luigi Asprino](http://www.istc.cnr.it/people/luigi-asprino), STLab-CNR, Italy
 - [Davide Buscaldi](https://sites.google.com/site/davidebuscaldi/home), Université Paris 13, France
+- [Sergio Consoli](https://www.researchgate.net/profile/Sergio_Consoli), Philips Research, The Netherlands
 - [Mauro Dragoni](http://shell.fbk.eu/people/profile/dragoni), Fondazione Bruno Kessler, Trento, Italy
 - [Oliver Lehmberg](http://dws.informatik.uni-mannheim.de/en/people/researchers/oliverlehmberg/), University of Mannheim, Germany
 - [Adeline Nazarenko](https://lipn.univ-paris13.fr/fr/component/content/article?id=3064&nom=Nazarenko), Université Paris 13, France
@@ -285,5 +287,6 @@ _:1    schema.org/url    google.com    yahoo.com
 - [Diego Reforgiato](http://www.istc.cnr.it/people/diego-reforgiato-recupero), STLab-CNR, Italy
 - [Dominique Ritze](http://dws.informatik.uni-mannheim.de/en/people/researchers/dominiqueritze/), University of Mannheim, Germany
 - [Sanja Štajner](http://dws.informatik.uni-mannheim.de/en/people/researchers/dr-sanja-stajner/), University of Mannheim, Germany
+- [Alessandro Russo](http://www.istc.cnr.it/people/alessandro-russo), STLab-CNR, Italy
 - [Ziqi Zhang](http://staffwww.dcs.shef.ac.uk/people/Z.Zhang/), University of Sheffield, UK
 
