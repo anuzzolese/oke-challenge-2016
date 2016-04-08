@@ -97,7 +97,35 @@ This task consists in producing rdf:type statements, given definition texts. The
 
 Participants are expected to (i) identify the type(s) of the given entity as they are expressed in the given definition, (ii) create a owl:Class statement for defining each of them as a new class in the target knowledge base, (iii) create a rdf:type statement between the given entity and the new created classes, and (iv) align the identified types, if a correct alignment is available, to a set of given types.
 
-In the task we will evaluate the extraction of all strings describing a type and the alignment to any of the subset of [DOLCE+DnS Ultra Lite classes](http://ontologydesignpatterns.org/ont/wikipedia/d0.owl)
+In the task we will evaluate the extraction of all strings describing a type and the alignment to any of the subset of [DOLCE+DnS Ultra Lite classes](http://ontologydesignpatterns.org/ont/wikipedia/d0.owl).
+The list of the classes part of this subset is the following:
+
+| Ontology class |	Label | Gloss | Examples |
+|:---------------|:-------|:------|:---------|
+| dul:Abstract	 | Abstract | Anything that cannot be located in space-time. | Vectors, sets, fractals, equations, etc. |
+|d0:Activity | Action, activity or task | Any action or task planned or executed by an agent intentionally causing and participating in it. | Swimming, shopping, knowledge sharing, etc. |
+| dul:Amount | Amount, quantity | Any quantity, independently from how it is measured, computed, etc. | kelvin, angstrom, quarter mile, silver dollar, deadline, etc. |
+| d0:Characteristic | Quality, feature, attribute | An aspect or quality of a thing. | radial symmetry, poker face, alkalinity, attractiveness, darkness, etc. |
+| dul:Collection | Collection or social group | A container or group of things (or agents) that share one or more common properties. | coin collection, checkout line, public library, Milky Way, etc. |
+| d0:CognitiveEntity | Cognitive entity | Attitudes, cognitive abilities, ideologies, psychological phenomena, mind, etc. | discernment, homophobia, precognition, etc. |
+| dul:Description | Conceptualization, description, context | A descriptive context that creates a relational view on a set of data or observations. | hypothesis, danger, Avogadro's law, string theory, utopia, etc. |
+| d0:Event | Any natural event | Any natural event, independently of its possible causes. | avalanche, earthquake, brainwave, bonfire, etc. |
+| dul:Goal | Goal, aim, achievement | The description of a situation that is desired by an agent. | destination, purpose, intention |
+| dul:InformationEntity | Information entity, creative work, knowledge | A piece of information, be it concretely realized or not: linguistic expressions, works of art, knowledge objects. | data, string, message, novel, song, etc. |
+| d0:Location | Place or space | A location, in a very generic sense e.g. geo-political entities, or physical object that are inherently located. | Oslo, Australia, Inner Mongolia, resort area, intergalactic space, tundra, tunnel, etc. |
+| dul:Organism | Organism, animal, plant | A physical object with biological characteristics, typically able to self-reproduce. | Japanese banana, fox, fungus, etc. |
+| dul:Organization | Organization | An internally structured, conventionally created social entity such as enterprises, bands, political parties, etc. | mathematics department, headquarters, yakuza, The Beatles, etc. |
+| dul:Person | Person | Persons in commonsense intuition. | John Doe, Aristotle, Armenian, house guest, etc. |
+| dul:Personification | Fictional or imaginary agent | A social entity with agentive features, invented or conceived through a cultural process. | holy grail, deus ex machina, God, magic wands, etc. |
+| dul:PhysicalObject | Physical object | Any object that has a proper space region, and an associated mass: natural bodies, artifacts, substances. | Kleenex, beard, building, etc. |
+| dul:Process | Natural or social process | Any natural process, independently of its possible causes. | absorption, acidification, chemical process, condensation, etc. |
+| dul:Relation | Social, logical, or other relations | Any social, logical, or quantitative relation (usually quite elementary). | part, identity, homonymy, causality, reciprocality, etc. |
+| dul:Role | Role | A concept that classifies some entity: social positions, roles, statuses. | soldier, eminence, legal status, etc. |
+| dul:Situation | Case, condition, circumstance, state, situation | A unified view on a set of entities, e.g. physical or social facts or conditions, configurations, etc. | breaking point, circulatory failure, start topology, inflammation, alienation, etc. |
+| d0:System | System | Physical, social, political systems. | viticulture, non-linear system, democracy, water system, etc. |
+| dul:TimeInterval | Time interval | A time span. | January, Friday, 2011, Modern era, etc. |
+| d0:Topic | Area of knowledge | Any area, discipline, subject of knowledge. | algebra, avionics, ballet, theology, engineering, etc. |
+
 
 
 As an example, for the sentence: 
@@ -248,7 +276,9 @@ _:1    schema.org/url    google.com    yahoo.com
 
 # Program Committee
 
+- [Luigi Asprino](http://www.istc.cnr.it/people/luigi-asprino), STLab-CNR, Italy
 - [Davide Buscaldi](https://sites.google.com/site/davidebuscaldi/home), Université Paris 13, France
+- [Sergio Consoli](https://www.researchgate.net/profile/Sergio_Consoli), Philips Research, The Netherlands
 - [Mauro Dragoni](http://shell.fbk.eu/people/profile/dragoni), Fondazione Bruno Kessler, Trento, Italy
 - [Oliver Lehmberg](http://dws.informatik.uni-mannheim.de/en/people/researchers/oliverlehmberg/), University of Mannheim, Germany
 - [Adeline Nazarenko](https://lipn.univ-paris13.fr/fr/component/content/article?id=3064&nom=Nazarenko), Université Paris 13, France
@@ -257,5 +287,6 @@ _:1    schema.org/url    google.com    yahoo.com
 - [Diego Reforgiato](http://www.istc.cnr.it/people/diego-reforgiato-recupero), STLab-CNR, Italy
 - [Dominique Ritze](http://dws.informatik.uni-mannheim.de/en/people/researchers/dominiqueritze/), University of Mannheim, Germany
 - [Sanja Štajner](http://dws.informatik.uni-mannheim.de/en/people/researchers/dr-sanja-stajner/), University of Mannheim, Germany
+- [Alessandro Russo](http://www.istc.cnr.it/people/alessandro-russo), STLab-CNR, Italy
 - [Ziqi Zhang](http://staffwww.dcs.shef.ac.uk/people/Z.Zhang/), University of Sheffield, UK
 

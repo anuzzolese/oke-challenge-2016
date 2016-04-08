@@ -2442,7 +2442,7 @@ dbpedia:The_Porter  a  oke:Film ;
 
 oke:Region  a            owl:Class ;
         rdfs:label       "region"@en ;
-        rdfs:subClassOf  d0:Location , dul:Location .
+        rdfs:subClassOf  d0:Locationd0:Location .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-82#char=47,56>
         a                     nif:RFC5147String , nif:String ;
@@ -7419,7 +7419,7 @@ oke:RailwayStation  a    owl:Class ;
 
 oke:State  a             owl:Class ;
         rdfs:label       "state"@en ;
-        rdfs:subClassOf  dul:Location .
+        rdfs:subClassOf  d0:Location .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-42#char=0,90>
         a               nif:Context , nif:RFC5147String , nif:String ;
@@ -7699,7 +7699,7 @@ oke:Vocalist  a          owl:Class ;
 
 oke:CulturalRegion  a    owl:Class ;
         rdfs:label       "cultural region"@en ;
-        rdfs:subClassOf  dul:Location .
+        rdfs:subClassOf  d0:Location .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-179#char=17,31>
         a                     nif:RFC5147String , nif:String ;
@@ -7835,7 +7835,7 @@ oke:Site  a              owl:Class ;
 
 oke:SemiticState  a      owl:Class ;
         rdfs:label       "Semitic state"@en ;
-        rdfs:subClassOf  dul:Location .
+        rdfs:subClassOf  d0:Location .
 
 oke:VirtuosoViolinist
         a                owl:Class ;
