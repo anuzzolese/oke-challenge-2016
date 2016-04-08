@@ -23,9 +23,9 @@ The **Gold Standard data** is available in folder [GoldStandard_sampleData](./Go
 - Challenge **papers** submission deadline: Monday March 21st, 2016
 - Challenge paper **reviews due**: Tuesday April 5th, 2016
 - **Notifications** sent to participants: Friday April 8th, 2016
-- **Test data** published: Friday April 8th, 2016
 - **Camera ready** papers due: Sunday April 24th, 2016​
-- [ESWC 2016](http://2016.eswc-conferences.org/) conference: May 29th - June 2nd,ß 2016
+- **System evaluation and Test data** published: during [ESWC 2016](http://2016.eswc-conferences.org/) conference
+- [ESWC 2016](http://2016.eswc-conferences.org/) conference: May 29th - June 2nd, 2016
 
 Participants must:
 
@@ -35,7 +35,7 @@ The best challenge papers will be also published in the Satellite Event proceedi
 
 2. For task 1 and 2 provide access to the application as webservice (specifications [here](https://github.com/anuzzolese/oke-challenge-2016/blob/master/example_data/GERBIL_integration.md)), with input/output provided in [NIF](http://persistence.uni-leipzig.org/nlp2rdf/) format. The final evaluation  will be carried out via [GERBIL](http://gerbil.aksw.org). The implementation of the evaluation for tasks 1-2 is already available on GERBIL (also accessible as open source code) as [Web demo](http://gerbil.aksw.org/gerbil/config). Participants can autonomously test their system using GERBIL (selecting as Experiment Type either OKE Challenge 2015 - Task 1 or OKE Challenge 2015 - Task 2).
 For task 3 participants will have to produce results in the specified format.
-3. The URI for the final system (for task1-2) / results on test set (for task 3)  must be provided by **April 8th, 2016** when the organizers will evaluate the systems against the **evaluation dataset**, which will be publicly released after announcement of results.
+3. The URI for the final system (for task1-2) / results on test set (for task 3)  must be provided in the Camera Ready version of the paper. The organizers will evaluate the systems against the **evaluation dataset** during [ESWC2016](http://2016.eswc-conferences.org). The dataset will be publicly released after the announcement of results.
 
 
 # Tasks Overview
