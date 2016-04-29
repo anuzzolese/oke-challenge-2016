@@ -269,11 +269,11 @@ On **Tuesday 31st of May 2016** there will be a full day Challenge track running
 The OKE challenge (unless possible last minutes adjusting of the schedule) will run from 11.00 to 11.45.
 The provisional program is the following.
 
-11.00 to 11.05 - OKE challenge overview. Description of task 1 and 2
-11.05 to 11.15 - Task 1: Julien Plu, Giuseppe Rizzo and Raphaël Troncy. Enhancing Entity Linking by Combining Models.
-11.15 to 11.25 - Task 1: Mohamed Chabchoub, Michel Gagnon and Amal Zouaq. Collective disambiguation and Semantic Annotation for Entity Linking and Typing
-11.25 to 11.35 - Task 2: Stefano Faralli and Simone Paolo Ponzetto. Open Knowledge Extraction Challenge (2016) a Hearst-like Pattern-Based approach to Hypernym Extraction and Class Induction
-11.35 to 11.45 - Task 2: Lara Haidar-Ahmad, Ludovic Font, Amal Zouaq and Michel Gagnon. Entity Typing and Linking using SPARQL Patterns and DBpedia   
+- 11.00 to 11.05 - OKE challenge overview. Description of task 1 and 2
+- 11.05 to 11.15 - Task 1: Julien Plu, Giuseppe Rizzo and Raphaël Troncy. Enhancing Entity Linking by Combining Models.
+- 11.15 to 11.25 - Task 1: Mohamed Chabchoub, Michel Gagnon and Amal Zouaq. Collective disambiguation and Semantic Annotation for Entity Linking and Typing
+- 11.25 to 11.35 - Task 2: Stefano Faralli and Simone Paolo Ponzetto. Open Knowledge Extraction Challenge (2016) a Hearst-like Pattern-Based approach to Hypernym Extraction and Class Induction
+- 11.35 to 11.45 - Task 2: Lara Haidar-Ahmad, Ludovic Font, Amal Zouaq and Michel Gagnon. Entity Typing and Linking using SPARQL Patterns and DBpedia   
 
 Challenge papers will also have a slot during the Poster and Demo session on Wednesday.
 
