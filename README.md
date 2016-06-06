@@ -319,7 +319,7 @@ For Task 2 the participants are:
 | WestLab (NIF WS)	 | 	OKE_task2 	 | 	Global	 | 	0.4664	 | 	0.47	 | 	0.4633	 | 	0.465	 | 	0.47	 | 	0.4633| 
 | WestLab (NIF WS)	 | 	OKE_task2 	 | 	Entity Typing	 | 	0.0727	 | 	0.08	 | 	0.0667	 | 	0.07	 | 	0.08	 | 	0.0667| 
 | WestLab (NIF WS)	 | 	OKE_task2 	 | 	Entity Recognition	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86| 
-| (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 		 | 	0.5023	 | 	0.4546	 | 	0.5624	 | 	0.4861	 | 	0.4708	 | 	0.5624| 
+| (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 	Global	 | 	0.5023	 | 	0.4546	 | 	0.5624	 | 	0.4861	 | 	0.4708	 | 	0.5624| 
 | (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 	Entity Typing	 | 	0.2326	 | 	0.2217	 | 	0.2447	 | 	0.1989	 | 	0.2217	 | 	0.2447| 
 | (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 	Entity Recognition	 | 	0.7719	 | 	0.6875	 | 	0.88	 | 	0.7733	 | 	0.72	 | 	0.88|
 
