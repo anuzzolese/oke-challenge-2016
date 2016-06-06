@@ -299,29 +299,29 @@ For Task 2 the participants are:
 
 | Annotator	 | 	 	sub-task	 | 	Micro F1	 | 	Micro Precision	 | 	Micro Recall	 | 	Macro F1	 | 	Macro Precision	 | 	Macro Recall| 
 |-----------|----------|-----------------|--------------|----------|-----------------|--------------|--------------|--------------|
-| WestLab	 | 	 	Global	 | 	0.6676	 | 	0.6964	 | 	0.6509	 | 	0.6516	 | 	0.6902	 | 	0.6439| 
 | WestLab	 | 	 	Entity Recognition	 | 	0.7738	 | 	0.7403	 | 	0.8105	 | 	0.7627	 | 	0.7571	 | 	0.8088| 
-| WestLab	 | 	 	D2KB	 | 	0.6008	 | 	0.7182	 | 	0.5163	 | 	0.5811	 | 	0.7007	 | 	0.5137| 
 | WestLab	 | 	 	Entity Typing	 | 	0.6283	 | 	0.6307	 | 	0.6258	 | 	0.611	 | 	0.6129	 | 	0.6093| 
-| Adel	 | 	 	Global	 | 	0.6249	 | 	0.6689	 | 	0.5942	 | 	0.6064	 | 	0.6606	 | 	0.5846| 
-| Adel	 | 	 	Entity Recognition	 | 	0.8073	 | 	0.8209	 | 	0.7941	 | 	0.792	 | 	0.8277	 | 	0.789| 
-| Adel	 | 	 	D2KB	 | 	0.4637	 | 	0.5813	 | 	0.3856	 | 	0.4465	 | 	0.5729	 | 	0.3849| 
-| Adel	 | 	 	Entity Typing	 | 	0.6038	 | 	0.6046	 | 	0.6029	 | 	0.5806	 | 	0.5813	 | 	0.58|
+| WestLab	 | 	 	D2KB	 | 	0.6008	 | 	0.7182	 | 	0.5163	 | 	0.5811	 | 	0.7007	 | 	0.5137| 
+| WestLab	 | 	 	Global	 | 	0.6676	 | 	0.6964	 | 	0.6509	 | 	0.6516	 | 	0.6902	 | 	0.6439| 
+| ADEL	 | 	 	Entity Recognition	 | 	0.8073	 | 	0.8209	 | 	0.7941	 | 	0.792	 | 	0.8277	 | 	0.789| 
+| ADEL	 | 	 	Entity Typing	 | 	0.6038	 | 	0.6046	 | 	0.6029	 | 	0.5806	 | 	0.5813	 | 	0.58|
+| ADEL	 | 	 	D2KB	 | 	0.4637	 | 	0.5813	 | 	0.3856	 | 	0.4465	 | 	0.5729	 | 	0.3849| 
+| ADEL	 | 	 	Global	 | 	0.6249	 | 	0.6689	 | 	0.5942	 | 	0.6064	 | 	0.6606	 | 	0.5846| 
 
 
 **Task 2**
 
 | Annotator	 | 	sub-task	 | 	Micro F1	 | 	Micro Precision	 | 	Micro Recall	 | 	Macro F1	 | 	Macro Precision	 | 	Macro Recall| 
 |-----------|----------|-----------------|--------------|----------|-----------------|--------------|--------------|--------------|
-| Mannheim	 | 	 	Global	 | 	0.3617	 | 	0.3864	 | 	0.34	 | 	0.3233	 | 	0.315	 | 	0.34| 
-| Mannheim	 | 	 	Entity Typing	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0| 
 | Mannheim	 | 	 	Entity Recognition	 | 	0.7234	 | 	0.7727	 | 	0.68	 | 	0.6467	 | 	0.63	 | 	0.68| 
-| WestLab	 | 	 	Global	 | 	0.4664	 | 	0.47	 | 	0.4633	 | 	0.465	 | 	0.47	 | 	0.4633| 
-| WestLab	 | 	 	Entity Typing	 | 	0.0727	 | 	0.08	 | 	0.0667	 | 	0.07	 | 	0.08	 | 	0.0667| 
+| Mannheim	 | 	 	Entity Typing	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0| 
+| Mannheim	 | 	 	Global	 | 	0.3617	 | 	0.3864	 | 	0.34	 | 	0.3233	 | 	0.315	 | 	0.34| 
 | WestLab	 | 	 	Entity Recognition	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86| 
-| *(BASELINE from OKE2015) Cetus*	 | 	Global	 | 	0.5023	 | 	0.4546	 | 	0.5624	 | 	0.4861	 | 	0.4708	 | 	0.5624| 
-| *(BASELINE from OKE2015) Cetus*	 | 	Entity Typing	 | 	0.2326	 | 	0.2217	 | 	0.2447	 | 	0.1989	 | 	0.2217	 | 	0.2447| 
+| WestLab	 | 	 	Entity Typing	 | 	0.0727	 | 	0.08	 | 	0.0667	 | 	0.07	 | 	0.08	 | 	0.0667| 
+| WestLab	 | 	 	Global	 | 	0.4664	 | 	0.47	 | 	0.4633	 | 	0.465	 | 	0.47	 | 	0.4633| 
 | *(BASELINE from OKE2015) Cetus*	 | 	Entity Recognition	 | 	0.7719	 | 	0.6875	 | 	0.88	 | 	0.7733	 | 	0.72	 | 	0.88|
+| *(BASELINE from OKE2015) Cetus*	 | 	Entity Typing	 | 	0.2326	 | 	0.2217	 | 	0.2447	 | 	0.1989	 | 	0.2217	 | 	0.2447| 
+| *(BASELINE from OKE2015) Cetus*	 | 	Global	 | 	0.5023	 | 	0.4546	 | 	0.5624	 | 	0.4861	 | 	0.4708	 | 	0.5624| 
 
 
 
