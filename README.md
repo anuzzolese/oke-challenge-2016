@@ -295,19 +295,19 @@ For Task 2 the participants are:
 - Lara Haidar-Ahmad, Ludovic Font, Amal Zouaq and Michel Gagnon. [Entity Typing and Linking using SPARQL Patterns and Dbpedia] (./participating systems/paper_2.pdf)
 
 
-**Task 2**
+**Task 1**
 
 | Annotator | Micro F1 | Micro Precision | Micro Recall | Macro F1 | Macro Precision | Macro Recall |
 |-----------|----------|-----------------|--------------|----------|-----------------|--------------|--------------|--------------|
 | Annotator	 | 	Dataset	 | 	sub-task	 | 	Micro F1	 | 	Micro Precision	 | 	Micro Recall	 | 	Macro F1	 | 	Macro Precision	 | 	Macro Recall| 
- | WestLab (NIF WS)	 | 	OKE_task1 	 | 	Global	 | 	0.6676	 | 	0.6964	 | 	0.6509	 | 	0.6516	 | 	0.6902	 | 	0.6439| 
- | WestLab (NIF WS)	 | 	OKE_task1 	 | 	Entity Recognition	 | 	0.7738	 | 	0.7403	 | 	0.8105	 | 	0.7627	 | 	0.7571	 | 	0.8088| 
- | WestLab (NIF WS)	 | 	OKE_task1 	 | 	D2KB	 | 	0.6008	 | 	0.7182	 | 	0.5163	 | 	0.5811	 | 	0.7007	 | 	0.5137| 
- | WestLab (NIF WS)	 | 	OKE_task1 	 | 	Entity Typing	 | 	0.6283	 | 	0.6307	 | 	0.6258	 | 	0.611	 | 	0.6129	 | 	0.6093| 
- | Adel (NIF WS)	 | 	OKE_task1 	 | 	Global	 | 	0.6249	 | 	0.6689	 | 	0.5942	 | 	0.6064	 | 	0.6606	 | 	0.5846| 
- | Adel (NIF WS)	 | 	OKE_task1 	 | 	Entity Recognition	 | 	0.8073	 | 	0.8209	 | 	0.7941	 | 	0.792	 | 	0.8277	 | 	0.789| 
- | Adel (NIF WS)	 | 	OKE_task1 	 | 	D2KB	 | 	0.4637	 | 	0.5813	 | 	0.3856	 | 	0.4465	 | 	0.5729	 | 	0.3849| 
- | Adel (NIF WS)	 | 	OKE_task1 	 | 	Entity Typing	 | 	0.6038	 | 	0.6046	 | 	0.6029	 | 	0.5806	 | 	0.5813	 | 	0.58|
+| WestLab (NIF WS)	 | 	OKE_task1 	 | 	Global	 | 	0.6676	 | 	0.6964	 | 	0.6509	 | 	0.6516	 | 	0.6902	 | 	0.6439| 
+| WestLab (NIF WS)	 | 	OKE_task1 	 | 	Entity Recognition	 | 	0.7738	 | 	0.7403	 | 	0.8105	 | 	0.7627	 | 	0.7571	 | 	0.8088| 
+| WestLab (NIF WS)	 | 	OKE_task1 	 | 	D2KB	 | 	0.6008	 | 	0.7182	 | 	0.5163	 | 	0.5811	 | 	0.7007	 | 	0.5137| 
+| WestLab (NIF WS)	 | 	OKE_task1 	 | 	Entity Typing	 | 	0.6283	 | 	0.6307	 | 	0.6258	 | 	0.611	 | 	0.6129	 | 	0.6093| 
+| Adel (NIF WS)	 | 	OKE_task1 	 | 	Global	 | 	0.6249	 | 	0.6689	 | 	0.5942	 | 	0.6064	 | 	0.6606	 | 	0.5846| 
+| Adel (NIF WS)	 | 	OKE_task1 	 | 	Entity Recognition	 | 	0.8073	 | 	0.8209	 | 	0.7941	 | 	0.792	 | 	0.8277	 | 	0.789| 
+| Adel (NIF WS)	 | 	OKE_task1 	 | 	D2KB	 | 	0.4637	 | 	0.5813	 | 	0.3856	 | 	0.4465	 | 	0.5729	 | 	0.3849| 
+| Adel (NIF WS)	 | 	OKE_task1 	 | 	Entity Typing	 | 	0.6038	 | 	0.6046	 | 	0.6029	 | 	0.5806	 | 	0.5813	 | 	0.58|
 
 
 **Task 2**
@@ -315,15 +315,15 @@ For Task 2 the participants are:
 | Annotator	 | 	Dataset	 | 	Sub-task	 | 	Micro F1	 | 	Micro Preci	 | 	Micro Reca	 | 	Macro F1	 | 	Macro Prec	 | 	Macro Rec	 | 	
 |-----------|----------|-----------------|--------------|----------|-----------------|--------------|--------------|--------------|
 | Annotator	 | 	Dataset	 | 		 | 	Micro F1	 | 	Micro Precision	 | 	Micro Recall	 | 	Macro F1	 | 	Macro Precision	 | 	Macro Recall| 
- | Mannheim (NIF WS)	 | 	OKE_task2 	 | 	Global	 | 	0.3617	 | 	0.3864	 | 	0.34	 | 	0.3233	 | 	0.315	 | 	0.34| 
- | Mannheim (NIF WS)	 | 	OKE_task2 	 | 	Entity Typing	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0| 
- | Mannheim (NIF WS)	 | 	OKE_task2 	 | 	Entity Recognition	 | 	0.7234	 | 	0.7727	 | 	0.68	 | 	0.6467	 | 	0.63	 | 	0.68| 
- | WestLab (NIF WS)	 | 	OKE_task2 	 | 	Global	 | 	0.4664	 | 	0.47	 | 	0.4633	 | 	0.465	 | 	0.47	 | 	0.4633| 
- | WestLab (NIF WS)	 | 	OKE_task2 	 | 	Entity Typing	 | 	0.0727	 | 	0.08	 | 	0.0667	 | 	0.07	 | 	0.08	 | 	0.0667| 
- | WestLab (NIF WS)	 | 	OKE_task2 	 | 	Entity Recognition	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86| 
- | (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 		 | 	0.5023	 | 	0.4546	 | 	0.5624	 | 	0.4861	 | 	0.4708	 | 	0.5624| 
- | (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 	Entity Typing	 | 	0.2326	 | 	0.2217	 | 	0.2447	 | 	0.1989	 | 	0.2217	 | 	0.2447| 
- | (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 	Entity Recognition	 | 	0.7719	 | 	0.6875	 | 	0.88	 | 	0.7733	 | 	0.72	 | 	0.88|
+| Mannheim (NIF WS)	 | 	OKE_task2 	 | 	Global	 | 	0.3617	 | 	0.3864	 | 	0.34	 | 	0.3233	 | 	0.315	 | 	0.34| 
+| Mannheim (NIF WS)	 | 	OKE_task2 	 | 	Entity Typing	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0| 
+| Mannheim (NIF WS)	 | 	OKE_task2 	 | 	Entity Recognition	 | 	0.7234	 | 	0.7727	 | 	0.68	 | 	0.6467	 | 	0.63	 | 	0.68| 
+| WestLab (NIF WS)	 | 	OKE_task2 	 | 	Global	 | 	0.4664	 | 	0.47	 | 	0.4633	 | 	0.465	 | 	0.47	 | 	0.4633| 
+| WestLab (NIF WS)	 | 	OKE_task2 	 | 	Entity Typing	 | 	0.0727	 | 	0.08	 | 	0.0667	 | 	0.07	 | 	0.08	 | 	0.0667| 
+| WestLab (NIF WS)	 | 	OKE_task2 	 | 	Entity Recognition	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86	 | 	0.86| 
+| (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 		 | 	0.5023	 | 	0.4546	 | 	0.5624	 | 	0.4861	 | 	0.4708	 | 	0.5624| 
+| (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 	Entity Typing	 | 	0.2326	 | 	0.2217	 | 	0.2447	 | 	0.1989	 | 	0.2217	 | 	0.2447| 
+| (BASELINE from OKE2015) Cetus	 | 	OKE2 	 | 	Entity Recognition	 | 	0.7719	 | 	0.6875	 | 	0.88	 | 	0.7733	 | 	0.72	 | 	0.88|
 
 
 
