@@ -297,9 +297,8 @@ For Task 2 the participants are:
 
 **Task 1**
 
-| Annotator | Micro F1 | Micro Precision | Micro Recall | Macro F1 | Macro Precision | Macro Recall |
-|-----------|----------|-----------------|--------------|----------|-----------------|--------------|--------------|--------------|
 | Annotator	 | 	Dataset	 | 	sub-task	 | 	Micro F1	 | 	Micro Precision	 | 	Micro Recall	 | 	Macro F1	 | 	Macro Precision	 | 	Macro Recall| 
+|-----------|----------|-----------------|--------------|----------|-----------------|--------------|--------------|--------------|
 | WestLab (NIF WS)	 | 	OKE_task1 	 | 	Global	 | 	0.6676	 | 	0.6964	 | 	0.6509	 | 	0.6516	 | 	0.6902	 | 	0.6439| 
 | WestLab (NIF WS)	 | 	OKE_task1 	 | 	Entity Recognition	 | 	0.7738	 | 	0.7403	 | 	0.8105	 | 	0.7627	 | 	0.7571	 | 	0.8088| 
 | WestLab (NIF WS)	 | 	OKE_task1 	 | 	D2KB	 | 	0.6008	 | 	0.7182	 | 	0.5163	 | 	0.5811	 | 	0.7007	 | 	0.5137| 
@@ -312,9 +311,8 @@ For Task 2 the participants are:
 
 **Task 2**
 
-| Annotator	 | 	Dataset	 | 	Sub-task	 | 	Micro F1	 | 	Micro Preci	 | 	Micro Reca	 | 	Macro F1	 | 	Macro Prec	 | 	Macro Rec	 | 	
+| Annotator	 | 	Dataset	 | 	sub-task	 | 	Micro F1	 | 	Micro Precision	 | 	Micro Recall	 | 	Macro F1	 | 	Macro Precision	 | 	Macro Recall| 
 |-----------|----------|-----------------|--------------|----------|-----------------|--------------|--------------|--------------|
-| Annotator	 | 	Dataset	 | 		 | 	Micro F1	 | 	Micro Precision	 | 	Micro Recall	 | 	Macro F1	 | 	Macro Precision	 | 	Macro Recall| 
 | Mannheim (NIF WS)	 | 	OKE_task2 	 | 	Global	 | 	0.3617	 | 	0.3864	 | 	0.34	 | 	0.3233	 | 	0.315	 | 	0.34| 
 | Mannheim (NIF WS)	 | 	OKE_task2 	 | 	Entity Typing	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0	 | 	0| 
 | Mannheim (NIF WS)	 | 	OKE_task2 	 | 	Entity Recognition	 | 	0.7234	 | 	0.7727	 | 	0.68	 | 	0.6467	 | 	0.63	 | 	0.68| 
