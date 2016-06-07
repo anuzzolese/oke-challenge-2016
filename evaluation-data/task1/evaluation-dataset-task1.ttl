@@ -154,7 +154,27 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=0,185> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Semi-presidentialRepublics> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Semi-presidential_system> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=87,96>
+        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
+                "republics"@en ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
+                "87"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
+                "96"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=0,185> ;
+        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Republic> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Republic>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Republic"@en ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                <http://dbpedia.org/resource/Republic> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-15#char=86,103>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1787,7 +1807,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=0,185> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HeadsOfState> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Head_of_state> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=0,12>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2464,7 +2484,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=0,185> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/PresidentialRepublics> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Presidential_system> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ChrisHughes>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -2623,10 +2643,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Governor> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ParliamentaryRepublics>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Parliamentary_republic>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "parliamentary republics"@en ;
+                "Parliamentary republic"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Parliamentary_republic> .
 
@@ -3434,10 +3454,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RobertCullen> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HeadsOfState>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Head_of_state>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "heads of state"@en ;
+                "Head_of_state"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Head_of_state> .
 
@@ -3480,10 +3500,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HarvardCollege> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Semi-presidentialRepublics>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Semi-presidential_system>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "semi-presidential republics"@en ;
+                "Semi-presidential system"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Semi-presidential_system> .
 
@@ -4269,10 +4289,10 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "recipient"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/PresidentialRepublics>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Presidential_system>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "presidential republics"@en ;
+                "Presidential system"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Presidential_system> .
 
@@ -4595,7 +4615,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=0,185> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ParliamentaryRepublics> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Parliamentary_republic> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-38#char=57,64>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
