@@ -400,10 +400,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Robert> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Peterhouse>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Peterhouse,_Cambridge>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Peterhouse"@en ;
+                "Peterhouse, Cambridge"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Peterhouse,_Cambridge> .
 
@@ -546,7 +546,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector_(academia)>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Rector_(academia)"@en ;
+                "Rector (academia)"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Rector_(academia)> .
 
@@ -654,7 +654,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=0,266> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfCambridge> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Cambridge> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=71,76>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1101,7 +1101,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=0,266> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fellowship> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fellow> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=195,202>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1671,7 +1671,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Mathematician>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "mathematician"@en ;
+                "Mathematician"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Mathematician> .
 
@@ -1839,10 +1839,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Bishop> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Maxwell>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Clerk_Maxwell>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Maxwell"@en ;
+                "James Clerk Maxwell"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/James_Clerk_Maxwell> .
 
@@ -1904,7 +1904,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=0,266> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Peterhouse> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Peterhouse,_Cambridge> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-42#char=73,94>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2066,7 +2066,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Bologna> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfCambridge>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Cambridge>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "University of Cambridge"@en ;
@@ -2753,7 +2753,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-48#char=0,94> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Maxwell> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Clerk_Maxwell> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/There>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -2881,7 +2881,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=0,266> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Clerk_Maxwell> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=71,78>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3102,10 +3102,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Engineers> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fellowship>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fellow>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "fellowship"@en ;
+                "Fellow"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Fellow> .
 
@@ -3295,6 +3295,19 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "In October 1850, already an accomplished mathematician, Maxwell left Scotland for the University of Cambridge. He initially attended Peterhouse, but before the end of his first term transferred to Trinity, where he believed it would be easier to obtain a fellowship."@en .
 
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=56,63>
+        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
+                "Maxwell"@en ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
+                "56"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
+                "63"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=0,266> ;
+        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Clerk_Maxwell> .
+
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-3#char=0,163>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
@@ -3452,7 +3465,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=0,266> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Clerk_Maxwell> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=73,88>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3589,10 +3602,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Hendler> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Trinity>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Trinity_College,_Cambridge>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Trinity"@en ;
+                "Trinity_College, Cambridge"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Trinity_College,_Cambridge> .
 
@@ -4046,7 +4059,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fellowship> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fellow> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-29#char=44,61>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4345,7 +4358,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=0,266> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Trinity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Trinity_College,_Cambridge> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Glasgow>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
