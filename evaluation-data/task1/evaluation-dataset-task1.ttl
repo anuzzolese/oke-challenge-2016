@@ -243,7 +243,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=0,246> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector_(academia)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/DustinMoskovitz>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -543,12 +543,12 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector_(academia)>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Rector"@en , "rector"@en ;
+                "Rector_(academia)"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Rector_%28academia%29> , <http://dbpedia.org/resource/Rector_(academia)> .
+                <http://dbpedia.org/resource/Rector_(academia)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-11#char=138,152>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -962,7 +962,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=0,246> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector_(academia)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-58#char=66,82>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2740,7 +2740,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-26#char=0,160> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector_(academia)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-48#char=8,15>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3852,7 +3852,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-40#char=0,87> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector_(academia)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-59#char=20,26>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5031,7 +5031,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-28#char=0,253> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector_(academia)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-45#char=0,228>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -5218,7 +5218,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-40#char=0,87> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_1> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=110,122>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5641,6 +5641,11 @@
                 "roommates"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Roommate> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_1>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "He"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
