@@ -174,10 +174,10 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "researcher"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Poughkeepsie%2CN.Y.>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Poughkeepsie,_New_York>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Poughkeepsie, N.Y."@en ;
+                "Poughkeepsie, New York"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Poughkeepsie,_New_York> .
 
@@ -323,13 +323,6 @@
                 "Cornell"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Cornell_University> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fiat>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Fiat"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Fiat_Automobiles> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=0,321>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -2012,7 +2005,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-4#char=0,219> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UnitedStates> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/United_States> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=41,54>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2896,7 +2889,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Glasgow> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UnitedStates>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/United_States>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "United States"@en ;
@@ -2954,7 +2947,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-4#char=0,219> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fiat> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fiat_Automobiles> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=95,100>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3612,7 +3605,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Country>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "country"@en ;
+                "Country"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Country> .
 
@@ -3977,10 +3970,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Head_teacher> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FiatAutomobileCo.>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fiat_Automobiles>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Fiat Automobile Co."@en ;
+                "Fiat Automobiles"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Fiat_Automobiles> .
 
@@ -4041,7 +4034,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-4#char=0,219> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Poughkeepsie%2CN.Y.> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Poughkeepsie,_New_York> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Who>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4228,7 +4221,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-3#char=0,163> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fiat> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fiat_Automobiles> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfGlasgow>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4420,7 +4413,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-4#char=0,219> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FiatAutomobileCo.> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fiat_Automobiles> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-18#char=21,28>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4772,7 +4765,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UnitedStates> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/United_States> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-46#char=76,82>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
