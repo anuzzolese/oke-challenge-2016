@@ -1238,14 +1238,21 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-24#char=0,142> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Reagan> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ronald_Reagan> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/President>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "President"@en , "president"@en ;
+                "President"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Chancellor_%28education%29#University_president> , <http://dbpedia.org/resource/President> .
+                <http://dbpedia.org/resource/President> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chancellor_(education)>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chancellor (education)"@en ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                <http://dbpedia.org/resource/Chancellor_(education)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-55#char=44,54>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2444,7 +2451,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-24#char=0,142> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ScreenActorsGuild> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Screen_Actors_Guild> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=106,128>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3832,7 +3839,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-24#char=0,142> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ronald_Reagan> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-18#char=89,97>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4149,7 +4156,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-28#char=0,253> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/President> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chancellor_(education)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AAAS>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5179,14 +5186,12 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-25#char=0,243> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Reagan> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ronald_Reagan> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ScreenActorsGuild>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Screen_Actors_Guild>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Screen Actors Guild"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Screen_Actors_Guild_Award> .
+                "Screen Actors Guild"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RayKurzweil>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5562,10 +5567,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Founder> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Reagan>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ronald_Reagan>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Reagan"@en ;
+                "Ronald Reagan"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Ronald_Reagan> .
 
