@@ -634,7 +634,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-59#char=0,63> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SaintPetronius> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Petronius_of_Bologna> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=86,109>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -968,7 +968,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-58#char=0,83> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BishopPetronius> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Petronius_of_Bologna> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-38#char=0,5>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1390,10 +1390,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SaintPetronius>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Petronius_of_Bologna>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Saint Petronius"@en ;
+                "Petronius of Bologna"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Petronius_of_Bologna> .
 
@@ -5581,13 +5581,6 @@
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-42#char=0,257> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfEdinburgh> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BishopPetronius>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Bishop Petronius"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Petronius_of_Bologna> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Bologna>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
