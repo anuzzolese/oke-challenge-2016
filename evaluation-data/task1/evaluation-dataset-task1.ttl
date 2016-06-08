@@ -250,7 +250,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/JamesD.Watson> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Watson> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=148,154>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -502,7 +502,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/IndianaUniversity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Indiana_University> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-10#char=55,74>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -682,7 +682,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Italy> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/IndianaUniversity>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Indiana_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Indiana University"@en ;
@@ -1551,7 +1551,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FrancisCrick> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Francis_Crick> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=224,263>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1941,10 +1941,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfGlasgow> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Citizen>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Citizenship>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "citizen"@en ;
+                "Citizenship"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Citizenship> .
 
@@ -2392,7 +2392,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tim_Berners-Lee> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FrancisCrick>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Francis_Crick>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Francis Crick"@en ;
@@ -2818,7 +2818,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Luria> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=35,60>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3002,7 +3002,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Luria> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-30#char=55,61>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3232,10 +3232,23 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/PopeNicholasV> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=19,21>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=52,55>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
                 "he"@en ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
+                "52"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
+                "55"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238> ;
+        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=19,21>
+        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
+                "His"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
                 "19"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
@@ -3243,7 +3256,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MITArtificialIntelligenceLab>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4551,10 +4564,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tim_Berners-Lee> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Luria>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Luria"@en ;
+                "Salvador_Luria"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Salvador_Luria> .
 
@@ -5140,10 +5153,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/JamesD.Watson>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Watson>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "James D. Watson"@en ;
+                "James_Watson"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/James_Watson> .
 
@@ -5578,7 +5591,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Citizen> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Citizenship> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=122,129>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
