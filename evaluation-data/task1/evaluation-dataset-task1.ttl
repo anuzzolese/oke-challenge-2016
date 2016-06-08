@@ -25,10 +25,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Tim_Berners-Lee> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SecularJewish>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Jewish_secularism>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "secular Jewish"@en ;
+                "Jewish secularism"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Jewish_secularism> .
 
@@ -427,7 +427,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/University_of_Maryland,_College_Park> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NewYorkCity>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/New_York_City>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "New York City"@en ;
@@ -621,7 +621,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
                 "268"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
-                "Ray Kurzweil grew up in the New York City borough of Queens. He was born to secular Jewish parents who had emigrated from Austria just before the onset of World War II. He was exposed viaUnitarian Universalism to a diversity of religious faiths during his upbringing. "@en .
+                "Ray Kurzweil grew up in the New York City borough of Queens. He was born to secular Jewish parents who had emigrated from Austria just before the onset of World War II. He was exposed via Unitarian Universalism to a diversity of religious faiths during his upbringing."@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Cagliari>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -771,18 +771,18 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Institute for Advanced Computer Studies"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=187,209>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=188,210>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
                 "Unitarian Universalism"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "187"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "188"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "209"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "210"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=0,268> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UnitarianUniversalism> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Unitarian_Universalism> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Harvard_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1826,7 +1826,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=0,268> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RayKurzweil> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ray_Kurzweil> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/PresidingOfficer>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1907,7 +1907,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/LondonBoroughOfSouthwark> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UnitarianUniversalism>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Unitarian_Universalism>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Unitarian Universalism"@en ;
@@ -2512,7 +2512,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-5#char=0,242> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NewYorkCity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/New_York_City> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-26#char=0,160>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -3447,7 +3447,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=0,268> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NewYorkCity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/New_York_City> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-37#char=51,55>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5028,7 +5028,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=0,268> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SecularJewish> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Jewish_secularism> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=0,185>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -5237,7 +5237,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Screen Actors Guild"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RayKurzweil>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ray_Kurzweil>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ray Kurzweil"@en ;
