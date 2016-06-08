@@ -1429,10 +1429,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Petronius_of_Bologna> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Hendler>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Hendler>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Hendler"@en ;
+                "James Hendler"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/James_Hendler> .
 
@@ -1530,7 +1530,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-33#char=0,123> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director_(business)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=110,112>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1799,7 +1799,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-33#char=0,123> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Hendler> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Hendler> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=64,78>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2800,7 +2800,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "there"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MarylandInformationAndNetworkDynamicsLaboratory>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Maryland_Information_And_Network_Dynamics_Laboratory>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Maryland Information and Network Dynamics Laboratory"@en .
@@ -3653,7 +3653,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=0,303> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Hendler> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Hendler> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Trinity_College,_Cambridge>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5351,7 +5351,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-33#char=0,123> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MarylandInformationAndNetworkDynamicsLaboratory> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Maryland_Information_And_Network_Dynamics_Laboratory> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-49#char=8,10>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5404,7 +5404,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=0,313> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director_(business)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=57,79>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5523,7 +5523,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=0,303> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director_(business)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-11#char=160,173>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5549,7 +5549,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director_(business)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-23#char=38,43>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5664,10 +5664,12 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Colleges> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director_(business)>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Director"@en .
+                "Director (business)"@en ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                <http://dbpedia.org/resource/Director_(business)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
