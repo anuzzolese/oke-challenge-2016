@@ -515,7 +515,20 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-10#char=0,160> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfTurin> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Turin> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-10#char=18,29>
+        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
+                "high school"@en ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
+                "18"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
+                "29"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-10#char=0,160> ;
+        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/High_School> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-46#char=7,13>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2078,7 +2091,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-10#char=0,160> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_3> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-59#char=30,37>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2260,7 +2273,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-10#char=0,160> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_3> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=22,30>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3433,7 +3446,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HighSchool> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/High_School> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=28,41>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4549,7 +4562,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Author> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfTurin>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Turin>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "University of Turin"@en ;
@@ -4989,13 +5002,6 @@
                 "son"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Son> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HighSchool>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "high school"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Secondary_school> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=175,187>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5698,6 +5704,11 @@
                 "He"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_2>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "He"@en .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_3>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "He"@en .
