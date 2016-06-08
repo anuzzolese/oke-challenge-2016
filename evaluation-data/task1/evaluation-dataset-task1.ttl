@@ -3233,7 +3233,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-3#char=0,163> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GianniAgnelli> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gianni_Agnelli> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-4#char=112,117>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3352,7 +3352,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GlasgowCollegeOfTechnology> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GianniAgnelli>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gianni_Agnelli>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gianni Agnelli"@en ;
