@@ -187,7 +187,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-15#char=0,206> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/PresidingOfficer> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Presiding_officer> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Researcher>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1332,7 +1332,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-15#char=0,206> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ExecutiveOfficial> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Executive_official> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-37#char=25,47>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1887,7 +1887,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ray_Kurzweil> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/PresidingOfficer>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Presiding_officer>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "presiding officer"@en .
@@ -2482,7 +2482,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Foreign Member"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ExecutiveOfficial>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Executive_official>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "executive official"@en .
