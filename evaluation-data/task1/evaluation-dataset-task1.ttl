@@ -21,7 +21,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tim_Berners-Lee>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Tim_Berners-Lee"@en ;
+                "Tim Berners-Lee"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Tim_Berners-Lee> .
 
@@ -1030,7 +1030,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=0,246> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chancellor> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chancellor_(education)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stockholm%2CSweden>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1431,12 +1431,12 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/James_Hendler> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/St.Paul%27sSchool>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/St._Paul's_School_(New_Hampshire)>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "St. Paul's School"@en ;
+                "St. Paul's School (New_Hampshire)"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/St._Paul%27s_School_(New_Hampshire)> .
+                <http://dbpedia.org/resource/St._Paul's_School_(New_Hampshire)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Italy>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1959,12 +1959,12 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professor> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HighSchools>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/High_school>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "high schools"@en ;
+                "High school"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Secondary_school> .
+                <http://dbpedia.org/resource/High_school> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=140,156>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2965,7 +2965,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=0,246> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Headmaster> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Head_teacher> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=0,151>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -3817,7 +3817,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=0,246> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NewHampshire> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/New_Hampshire> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=299,320>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4003,10 +4003,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BritishComputerSociety> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Headmaster>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Head_teacher>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Headmaster"@en ;
+                "Head teacher"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Head_teacher> .
 
@@ -4703,7 +4703,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=0,246> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/CollegeOfWilliamAndMary> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/College_of_William_%26_Mary> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=153,169>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5159,7 +5159,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=0,246> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/St.Paul%27sSchool> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/St._Paul's_School_(New_Hampshire)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-14#char=221,239>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5174,17 +5174,17 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/CorporateEntities> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NewHampshire>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/New_Hampshire>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "New Hampshire"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/New_Hampshire> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/CollegeOfWilliamAndMary>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/College_of_William_%26_Mary>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "College of William and Mary"@en ;
+                "College of William & Mary"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/College_of_William_%26_Mary> .
 
@@ -5275,7 +5275,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=0,246> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HighSchools> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/High_school> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-43#char=29,45>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
