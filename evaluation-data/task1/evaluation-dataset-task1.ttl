@@ -2004,7 +2004,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-42#char=0,257> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfGlasgow> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Glasgow> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Citizenship>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -2931,7 +2931,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-56#char=0,97> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfGlasgow> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Glasgow> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Boston>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -3288,7 +3288,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-56#char=0,97> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/PopeNicholasV> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Pope_Nicholas_V> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=52,55>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3468,7 +3468,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "Brown was educated first at Kirkcaldy West Primary School where he was selected for an experimental fast stream education programme, which took him two years early to Kirkcaldy High School for an academic hothouse education taught in separate classes."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/PopeNicholasV>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Pope_Nicholas_V>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Pope Nicholas V"@en ;
@@ -4351,7 +4351,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fiat_Automobiles> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfGlasgow>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Glasgow>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "University of Glasgow"@en ;
