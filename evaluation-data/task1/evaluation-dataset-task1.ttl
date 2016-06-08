@@ -747,7 +747,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-55#char=0,118> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfEdinburgh> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Edinburgh> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-36#char=0,207>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -2692,7 +2692,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-45#char=0,228> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfEdinburgh> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Edinburgh> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-21#char=88,92>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3317,7 +3317,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-55#char=0,118> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ScottishEnlightenment> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Scottish_Enlightenment> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=0,266>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -3701,7 +3701,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BankOfEngland> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfEdinburgh>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Edinburgh>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "University of Edinburgh"@en ;
@@ -3979,7 +3979,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=0,181> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfEdinburgh> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Edinburgh> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-50#char=0,129>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -5540,7 +5540,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Capon> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ScottishEnlightenment>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Scottish_Enlightenment>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Scottish Enlightenment"@en ;
@@ -5605,7 +5605,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-42#char=0,257> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfEdinburgh> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Edinburgh> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Bologna>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
