@@ -1203,7 +1203,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Corporation> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/DanielDewar>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Daniel_Dewar>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Daniel Dewar"@en .
@@ -1644,7 +1644,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-48#char=0,94> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marischal> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marischal_College> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MarvinLeeMinsky>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1907,10 +1907,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Unitarian_Universalism> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marischal>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marischal_College>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Marischal"@en ;
+                "Marischal College"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Marischal_College> .
 
@@ -5298,7 +5298,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-48#char=0,94> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Reverend> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/The_Reverend> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-28#char=161,176>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5740,7 +5740,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-48#char=0,94> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/DanielDewar> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Daniel_Dewar> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-41#char=42,50>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5788,10 +5788,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Recipient> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Reverend>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/The_Reverend>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Reverend"@en ;
+                "The Reverend"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/The_Reverend> .
 
