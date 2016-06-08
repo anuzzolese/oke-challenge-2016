@@ -1130,13 +1130,6 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Hershey> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/USA>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "USA"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/United_States> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SeniorResearcher>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -1246,7 +1239,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-31#char=0,154> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/USA> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/United_States> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-24#char=0,6>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2169,7 +2162,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-31#char=0,154> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RensselaerPolytechnicInstitute> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rensselaer_Polytechnic_Institute> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-18#char=81,88>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4188,7 +4181,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-31#char=0,154> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/JamesAlexanderHendler> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Hendler> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-49#char=0,72>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -4963,13 +4956,6 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AcademicInstitutions> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/JamesAlexanderHendler>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "James Alexander Hendler"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/James_Hendler> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ivy_League>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -5125,7 +5111,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MITArtificialIntelligenceLab> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RensselaerPolytechnicInstitute>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rensselaer_Polytechnic_Institute>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Rensselaer Polytechnic Institute"@en ;
