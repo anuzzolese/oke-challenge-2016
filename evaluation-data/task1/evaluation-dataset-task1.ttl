@@ -612,7 +612,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-14#char=0,240> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Leader> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Leadership> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-7#char=0,268>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -2860,10 +2860,10 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "Etymologically, a president is one who presides. Originally, the term referred to the presiding officer of a ceremony or meeting (i.e., chairman), but today it most commonly refers to an executive official."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Leader>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Leadership>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "leader"@en ;
+                "Leadership"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Leadership> .
 
@@ -3778,7 +3778,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-14#char=0,240> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Leaders> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Leadership> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-6#char=60,66>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4981,13 +4981,6 @@
                 "James Alexander Hendler"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/James_Hendler> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Leaders>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "leaders"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Leadership> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/IvyLeague>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
