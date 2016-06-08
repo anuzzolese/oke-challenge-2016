@@ -789,10 +789,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UnitarianUniversalism> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Harvard>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Harvard_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Harvard"@en ;
+                "Harvard_University"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Harvard_University> .
 
@@ -821,13 +821,6 @@
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-19#char=0,161> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professors> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Student"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Student> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=112,134>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -953,7 +946,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-18#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/StanfordUniversity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stanford_University> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-2#char=121,126>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1699,10 +1692,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GiovanniGiorgi> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Colleges>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/College>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "colleges"@en ;
+                "College"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/College> .
 
@@ -2194,7 +2187,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-18#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Harvard> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Harvard_University> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-46#char=62,74>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3208,7 +3201,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Student> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/StanfordUniversity>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stanford_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Stanford University"@en ;
@@ -3830,7 +3823,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-18#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/IvyLeague> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ivy_League> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Florence>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4982,7 +4975,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/James_Hendler> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/IvyLeague>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ivy_League>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ivy League"@en ;
@@ -5366,7 +5359,7 @@
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "student"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
@@ -5661,7 +5654,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-18#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Colleges> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/College> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director_(business)>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
