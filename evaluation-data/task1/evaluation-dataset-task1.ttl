@@ -815,7 +815,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-19#char=0,161> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professors> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professor> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=112,134>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1611,12 +1611,12 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-21#char=0,93> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professorship> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professor> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Friend>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Friendship>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "friend"@en ;
+                "Friendship"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Friendship> .
 
@@ -2809,13 +2809,6 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NewingtonButts> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professorship>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "professorship"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Professor> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-26#char=3,8>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
@@ -4004,7 +3997,20 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=0,181> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Black> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Joseph_Black> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=38,41>
+        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
+                "his"@en ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
+                "38"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
+                "41"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=0,181> ;
+        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Joseph_Black> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SapienzaUniversity>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4041,12 +4047,12 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Judge> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Black>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Joseph_Black>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Black"@en ;
+                "Joseph_Black"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Joseph_Black> , <http://dbpedia.org/resource/Black> .
+                <http://dbpedia.org/resource/Joseph_Black> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=157,180>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4196,7 +4202,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "James Alexander Hendler is an artificial intelligence researcher at Rensselaer Polytechnic Institute, USA, and one of the originators of the Semantic Web."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/WilliamCullen>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/William_Cullen>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "William Cullen"@en ;
@@ -4352,13 +4358,6 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/University_of_Glasgow> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professors>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "professors"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Professor> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Founder>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -4411,7 +4410,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=0,181> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/WilliamCullen> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/William_Cullen> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-49#char=28,58>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4588,13 +4587,6 @@
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-57#char=0,73> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Bologna> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professorships>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Professorships"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Professor> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-1#char=162,168>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5125,7 +5117,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Teacher>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "teacher"@en ;
+                "Teacher"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Teacher> .
 
@@ -5162,7 +5154,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-19#char=0,161> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professorships> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professor> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-6#char=27,58>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5720,7 +5712,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professor>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "professor"@en , "Professor"@en ;
+                "Professor"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Professor> .
 
@@ -6005,7 +5997,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=0,181> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Friend> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Friendship> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=118,126>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
