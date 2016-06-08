@@ -891,10 +891,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Edinburgh> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Papert>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Seymour_Papert>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Papert"@en ;
+                "Seymour Papert"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Seymour_Papert> .
 
@@ -3323,10 +3323,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MITArtificialIntelligenceLab>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "MIT Artificial Intelligence Lab"@en ;
+                "MIT Computer Science and Artificial Intelligence Laboratory"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory> .
 
@@ -3838,7 +3838,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-6#char=0,147> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Minsky> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marvin_Minsky> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-5#char=213,241>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5175,7 +5175,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-6#char=0,147> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MITArtificialIntelligenceLab> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rensselaer_Polytechnic_Institute>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5307,7 +5307,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-6#char=0,147> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Papert> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Seymour_Papert> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Researchers>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
