@@ -623,10 +623,10 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "Ray Kurzweil grew up in the New York City borough of Queens. He was born to secular Jewish parents who had emigrated from Austria just before the onset of World War II. He was exposed viaUnitarian Universalism to a diversity of religious faiths during his upbringing. "@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfCagliari>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Cagliari>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "niversity of Cagliari "@en ;
+                "University of Cagliari"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/University_of_Cagliari> .
 
@@ -1480,18 +1480,18 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "With the help of physicist Enrico Fermi, whom he knew from his time at the University of Rome, Luria received a Rockefeller Foundation fellowship at Columbia University. He soon met Delbrück and Hershey, and they collaborated on experiments at Cold Spring Harbor Laboratory and in Delbrück's lab at Vanderbilt University."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=1,6>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=0,5>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "ermi "@en ;
+                "Fermi "@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "6"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "5"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=0,151> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fermi> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Enrico_Fermi> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RobertCullen>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1674,18 +1674,18 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=136,151>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=135,150>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "iovanni Giorgi."@en ;
+                "Giovanni Giorgi"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "136"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "135"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "151"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "150"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=0,151> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GiovanniGiorgi> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Giovanni_Giorgi> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/College>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1708,18 +1708,18 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Enrico_Fermi> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=58,80>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=57,79>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "niversity of Cagliari "@en ;
+                "University of Cagliari"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "58"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "57"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "80"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "79"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=0,151> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfCagliari> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Cagliari> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-42#char=0,2>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2119,14 +2119,14 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=84,92>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=83,91>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "ardinia,"@en ;
+                "Sardinia"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "84"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "83"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "92"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "91"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=0,151> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
@@ -4763,10 +4763,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Eugenio_Canfari> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GiovanniGiorgi>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Giovanni_Giorgi>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "iovanni Giorgi."@en ;
+                "Giovanni Giorgi"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Giovanni_Giorgi> .
 
@@ -4848,7 +4848,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sardinia>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "ardinia,"@en ;
+                "Sardinia"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Sardinia> .
 
@@ -5373,10 +5373,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfCalifornia> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fermi>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Enrico_Fermi>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "ermi "@en ;
+                "Enrico Fermi "@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Enrico_Fermi> .
 
