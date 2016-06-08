@@ -87,7 +87,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/She_1> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/InstituteForSystemsResearch>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Institute_for_Systems_Research>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Institute for Systems Research"@en .
@@ -110,7 +110,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=0,303> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/InstituteForSystemsResearch> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Institute_for_Systems_Research> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-28#char=71,85>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -420,10 +420,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Peterhouse,_Cambridge> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfMaryland>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Maryland,_College_Park>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "University of Maryland"@en ;
+                "University of Maryland, College Park"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/University_of_Maryland,_College_Park> .
 
@@ -766,7 +766,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "He attended Sheen Mount Primary School, and then went on to attend south west London's Emanuel School from 1969 to 1973, at the time a direct grant grammar school, which became an independent school in 1975."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/InstituteForAdvancedComputerStudies>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Institute_for_Advanced_Computer_Studies>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Institute for Advanced Computer Studies"@en .
@@ -1093,7 +1093,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=0,303> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/DepartmentOfComputerScience> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Department_of_Computer_Science> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-6#char=0,147>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -1563,7 +1563,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=0,303> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/InstituteForAdvancedComputerStudies> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Institute_for_Advanced_Computer_Studies> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=187,204>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2717,7 +2717,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Parliamentary_republic> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/DepartmentOfComputerScience>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Department_of_Computer_Science>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Department of Computer Science"@en .
@@ -3213,7 +3213,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-43#char=0,103> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfGlasgow> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Glasgow> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-3#char=0,14>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3423,7 +3423,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "Gianni Agnelli became the head of Fiat from 1966 to 2003 and made the company into the most important company in Italy and one of the major car builders of Europe."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/JointInstituteForKnowledgeDiscovery>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Joint_Institute_for_Knowledge_Discovery>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Joint Institute for Knowledge Discovery"@en .
@@ -3932,7 +3932,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=0,303> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Hendler> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-24#char=42,44>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5448,7 +5448,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=0,303> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfMaryland> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Maryland,_College_Park> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-33#char=0,123>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -5534,7 +5534,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-32#char=0,303> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/JointInstituteForKnowledgeDiscovery> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Joint_Institute_for_Knowledge_Discovery> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Lecturer>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
