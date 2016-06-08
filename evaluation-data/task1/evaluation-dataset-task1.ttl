@@ -18,10 +18,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/CERN> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Berners-Lee>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tim_Berners-Lee>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Berners-Lee"@en ;
+                "Tim_Berners-Lee"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Tim_Berners-Lee> .
 
@@ -309,7 +309,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=0,313> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tim_Berners-Lee> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-31#char=54,64>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1227,7 +1227,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Son> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/WorldWideWebConsortium>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/World_Wide_Web_Consortium>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "World Wide Web Consortium"@en ;
@@ -1661,7 +1661,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Physician> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MITComputerScienceAndArtificialIntelligenceLaboratory>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MIT Computer Science and Artificial Intelligence Laboratory"@en ;
@@ -2109,7 +2109,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=0,313> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MITComputerScienceAndArtificialIntelligenceLaboratory> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=84,92>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2148,7 +2148,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=0,313> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/WorldWideWebFoundation> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/World_Wide_Web_Foundation> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-31#char=68,100>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2829,7 +2829,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=0,313> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/WorldWideWebConsortium> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/World_Wide_Web_Consortium> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-15#char=0,206>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -4043,7 +4043,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fannie> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/WorldWideWebFoundation>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/World_Wide_Web_Foundation>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "World Wide Web Foundation"@en ;
@@ -4280,7 +4280,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Founder>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "founder"@en ;
+                "Founder"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Founder> .
 
@@ -4545,7 +4545,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-37#char=0,223> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Berners-Lee> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tim_Berners-Lee> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Luria>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4876,7 +4876,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=0,313> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Berners-Lee> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tim_Berners-Lee> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Robert>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5587,19 +5587,6 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Austria> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=223,230>
-        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "founder"@en ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "223"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "230"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=0,313> ;
-        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Founder> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ronald_Reagan>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -5656,7 +5643,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Director>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "director"@en , "Director"@en .
+                "Director"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
