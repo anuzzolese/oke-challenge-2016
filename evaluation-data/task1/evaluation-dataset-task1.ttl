@@ -809,10 +809,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professors> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Students>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "students"@en ;
+                "Student"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Student> .
 
@@ -842,10 +842,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sport-ClubJuventus>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus F.C.>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Sport-Club Juventus"@en ;
+                "Juventus F.C."@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Juventus_F.C.> .
 
@@ -1191,7 +1191,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-1#char=0,204> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Students> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-41#char=0,146>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -1851,6 +1851,8 @@
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "company"@en .
+        <http://www.w3.org/2002/07/owl#sameAs>
+                <http://dbpedia.org/resource/Company> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Bishop>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -3042,18 +3044,18 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Father> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-1#char=90,93>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-1#char=142,145>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "who"@en ;
+                "his"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "90"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "142"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "93"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "145"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-1#char=0,204> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Who> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/His> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Delbr%C3%BCck>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -3885,7 +3887,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-18#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Students> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-40#char=13,19>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4076,10 +4078,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Poughkeepsie,_New_York> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Who>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/His>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "who"@en .
+                "his"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=135,145>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4141,7 +4143,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-1#char=0,204> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sport-ClubJuventus> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus_F.C.> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-1#char=154,160>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4235,7 +4237,9 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Author>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "author"@en .
+                "author"@en ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                <http://dbpedia.org/resource/Author> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-11#char=121,123>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4357,7 +4361,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/KirkcaldyWestPrimarySchool> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/EugenioCanfari>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Eugenio_Canfari>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Eugenio Canfari"@en ;
@@ -4557,7 +4561,9 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Brother>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "brother"@en .
+                "Brother"@en .
+        <http://www.w3.org/2002/07/owl#sameAs>
+                <http://dbpedia.org/resource/Brother> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Independent_contractor>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4736,7 +4742,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-1#char=0,204> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/EugenioCanfari> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Eugenio_Canfari> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GiovanniGiorgi>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
