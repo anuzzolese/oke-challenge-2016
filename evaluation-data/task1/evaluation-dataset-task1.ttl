@@ -1850,7 +1850,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Company>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "company"@en .
+                "company"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Company> .
 
