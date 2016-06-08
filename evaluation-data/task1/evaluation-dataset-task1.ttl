@@ -1404,18 +1404,23 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Vanderbilt_University> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=71,78>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=62,78>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "student"@en ;
+                "graduate student"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "71"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "62"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
                 "78"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Graduate_Student> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Graduate_Student>
+        a  <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graduate Student"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Petronius_of_Bologna>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
