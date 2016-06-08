@@ -379,10 +379,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Protesters> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Oslo%2CNorway>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Oslo>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Oslo, Norway"@en ;
+                "Oslo"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Oslo> .
 
@@ -1032,10 +1032,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chancellor_(education)> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stockholm%2CSweden>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stockholm>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Stockholm, Sweden"@en ;
+                "Stockholm"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Stockholm> .
 
@@ -2619,7 +2619,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-29#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NobelFoundation> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Nobel_Foundation> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-30#char=0,90>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -4105,7 +4105,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-29#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stockholm%2CSweden> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stockholm> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-31#char=0,154>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -5438,7 +5438,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Harvard_College> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NobelFoundation>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Nobel_Foundation>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Nobel Foundation"@en ;
@@ -5862,7 +5862,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-29#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Oslo%2CNorway> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Oslo> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Treasury>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
