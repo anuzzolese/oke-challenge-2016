@@ -337,10 +337,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/EnricoFermi> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cornell>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cornell_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Cornell"@en ;
+                "Cornell_University"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Cornell_University> .
 
@@ -554,7 +554,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-9#char=0,222> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Massachusetts_Institute_of_Technology> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=99,102>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -567,7 +567,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Massachusetts_Institute_of_Technology> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector_(academia)>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -721,11 +721,6 @@
                 "Bronx High School of Science"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/The_Bronx_High_School_of_Science> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Him>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "him"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-21#char=13,15>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1065,7 +1060,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-39#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Him> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Brown> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HenryCullen>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1549,7 +1544,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ray_Kurzweil> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=150,163>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1792,7 +1787,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-9#char=0,222> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Massachusetts_Institute_of_Technology> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-33#char=0,7>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1838,7 +1833,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "presiding officer"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MarvinMinsky>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marvin_Minsky>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Marvin Minsky"@en ;
@@ -1990,7 +1985,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FrankRosenblatt> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Frank_Rosenblatt> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfCalifornia>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -2279,7 +2274,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Kurzweil> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ray_Kurzweil> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-23#char=24,28>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2459,17 +2454,17 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Company> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FrankRosenblatt>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Frank_Rosenblatt>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Frank Rosenblatt"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Frank_Rosenblatt> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Massachusetts_Institute_of_Technology>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "MIT"@en ;
+                "Massachusetts Institute of Technology"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Massachusetts_Institute_of_Technology> .
 
@@ -3410,7 +3405,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cornell> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cornell_University> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-39#char=0,251>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -3758,7 +3753,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MarvinMinsky> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marvin_Minsky> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-14#char=186,193>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3959,10 +3954,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Sapienza_University_of_Rome> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Kurzweil>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ray_Kurzweil>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Kurzweil"@en ;
+                "Ray Kurzweil"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Ray_Kurzweil> .
 
@@ -4684,7 +4679,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Him> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marvin_Minsky> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AndrewMcCollum>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4880,7 +4875,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-9#char=0,222> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MarvinMinsky> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marvin_Minsky> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-45#char=150,152>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5966,7 +5961,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Kurzweil> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ray_Kurzweil> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-9#char=189,192>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5979,4 +5974,4 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-9#char=0,222> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MIT> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Massachusetts_Institute_of_Technology> .
