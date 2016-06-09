@@ -2046,7 +2046,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Frank_Rosenblatt> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfCalifornia>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_California>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "University of California"@en ;
@@ -3617,7 +3617,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-25#char=0,243> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NationalGuard> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/National_Guard_of_the_United_States> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=182,190>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4287,7 +4287,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/State>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "state"@en ;
+                "State"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/State> .
 
@@ -5401,7 +5401,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-25#char=0,243> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfCalifornia> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_California> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Enrico_Fermi>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5486,10 +5486,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Nobel_Foundation> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NationalGuard>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/National_Guard_of_the_United_States>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "National Guard"@en ;
+                "National Guard of the United States"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/National_Guard_of_the_United_States> .
 
