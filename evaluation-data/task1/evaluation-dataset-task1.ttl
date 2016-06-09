@@ -587,7 +587,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-11#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ForeignMember> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Foreign_Member> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chairman>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -868,7 +868,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-11#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Dulbecco> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Renato_Dulbecco> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Institute_of_Electrical_and_Electronics_Engineers>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1146,7 +1146,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-11#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SelmanA.WaksmanAwardInMicrobiology> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Selman_A._Waksman_Award_in_Microbiology> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-45#char=125,134>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1457,7 +1457,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Physicist> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RoyalSociety>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Royal_Society>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Royal Society"@en ;
@@ -2477,7 +2477,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Recipient> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ForeignMember>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Foreign_Member>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Foreign Member"@en .
@@ -4202,7 +4202,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/William_Cullen> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NationalAcademyOfSciences>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/National_Academy_of_Sciences>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "National Academy of Sciences"@en ;
@@ -4329,7 +4329,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-11#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Renato_Dulbecco> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-3#char=34,38>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4566,7 +4566,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-11#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NationalAcademyOfSciences> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/National_Academy_of_Sciences> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-57#char=14,21>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5452,7 +5452,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/University> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SelmanA.WaksmanAwardInMicrobiology>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Selman_A._Waksman_Award_in_Microbiology>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Selman A. Waksman Award in Microbiology"@en ;
@@ -5553,7 +5553,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-11#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RoyalSociety> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Royal_Society> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=240,248>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5899,10 +5899,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Orso_Mario_Corbino> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Dulbecco>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Renato_Dulbecco>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Dulbecco"@en ;
+                "Renato Dulbecco"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Renato_Dulbecco> .
 
