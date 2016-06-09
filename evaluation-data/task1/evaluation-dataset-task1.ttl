@@ -1013,10 +1013,10 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "He graduated from high school at 16, then moved to the University of Turin. Despite a strong interest for mathematics and physics, he decided to study medicine."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GlasgowCollegeOfTechnology>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Glasgow_Caledonian_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Glasgow College of Technology"@en ;
+                "Glasgow Caledonian University"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Glasgow_Caledonian_University> .
 
@@ -2454,7 +2454,27 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-41#char=0,146> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gordon_Brown> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-41#char=117,122>
+        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
+                "tutor"@en ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
+                "117"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
+                "122"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-41#char=0,146> ;
+        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tutor> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tutor>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tutor"@en ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                <http://dbpedia.org/resource/Tutor> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-37#char=101,103>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3377,7 +3397,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-41#char=0,146> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GlasgowCollegeOfTechnology> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Glasgow_Caledonian_University> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gianni_Agnelli>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5870,7 +5890,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Brother> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/OpenUniversity>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Open_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Open University"@en ;
@@ -5955,7 +5975,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-41#char=0,146> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/OpenUniversity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Open_University> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-29#char=107,119>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
