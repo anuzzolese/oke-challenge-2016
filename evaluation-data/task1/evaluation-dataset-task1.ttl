@@ -123,7 +123,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-28#char=0,253> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ExecutiveHead> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Executive_Head> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Principal>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -3131,14 +3131,14 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "He studied at Bologna and Florence, gaining a degree in theology in 1422."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AcademicInstitutions>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Academic_institution>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "academic institutions"@en ;
+                "Academic institution"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Academic_institution> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ExecutiveHead>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Executive_Head>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "executive head"@en .
@@ -4664,13 +4664,6 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "In 1926, at the age of 24, he applied for a professorship at the Sapienza University of Rome."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Vice-Chancellor>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Vice-Chancellor"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Chancellor_%28education%29> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-30#char=44,53>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
@@ -5012,7 +5005,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-28#char=0,253> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AcademicInstitutions> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Academic_institution> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ivy_League>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5369,7 +5362,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-28#char=0,253> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Vice-Chancellor> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chancellor_(education)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-33#char=70,122>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
