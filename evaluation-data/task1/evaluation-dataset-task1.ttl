@@ -484,7 +484,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-34#char=0,169> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_5> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fannie>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -870,7 +870,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Dulbecco> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/InstituteOfElectricalAndElectronicsEngineers>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Institute_of_Electrical_and_Electronics_Engineers>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Institute of Electrical and Electronics Engineers"@en ;
@@ -1314,7 +1314,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professor> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BritishComputerSociety>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/British_Computer_Society>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "British Computer Society"@en ;
@@ -1504,7 +1504,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-34#char=0,169> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AmericanAssociationForArtificialIntelligence> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Association_for_the_Advancement_of_Artificial_Intelligence> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/LordKames>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4087,7 +4087,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-34#char=0,169> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BritishComputerSociety> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/British_Computer_Society> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Head_teacher>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4147,7 +4147,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-34#char=0,169> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AAAS> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/American_Association_for_the_Advancement_of_Science> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-4#char=121,139>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4277,17 +4277,17 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chancellor_(education)> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AAAS>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/American_Association_for_the_Advancement_of_Science>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "AAAS"@en ;
+                "American Association for the Advancement of Science"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/American_Association_for_the_Advancement_of_Science> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AmericanAssociationForArtificialIntelligence>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Association_for_the_Advancement_of_Artificial_Intelligence>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "American Association for Artificial Intelligence"@en ;
+                "Association for the Advancement of Artificial Intelligence"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Association_for_the_Advancement_of_Artificial_Intelligence> .
 
@@ -4766,7 +4766,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-34#char=0,169> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/InstituteOfElectricalAndElectronicsEngineers> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Institute_of_Electrical_and_Electronics_Engineers> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=4,31>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5739,6 +5739,11 @@
                 "He"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_4>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "He"@en .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_5>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "He"@en .
