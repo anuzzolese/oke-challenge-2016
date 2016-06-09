@@ -2663,7 +2663,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-39#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gordon_Brown> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-42#char=0,257>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -4324,7 +4324,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-39#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/KirkcaldyHighSchool> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Kirkcaldy_High_School> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Author>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4444,7 +4444,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-39#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/KirkcaldyWestPrimarySchool> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Kirkcaldy_West_Primary_School> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Eugenio_Canfari>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4842,7 +4842,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Rockefeller_Foundation> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/KirkcaldyHighSchool>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Kirkcaldy_High_School>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Kirkcaldy High School"@en ;
@@ -5090,7 +5090,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_2> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/KirkcaldyWestPrimarySchool>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Kirkcaldy_West_Primary_School>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Kirkcaldy West Primary School"@en .
