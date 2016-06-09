@@ -3599,7 +3599,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professor> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/CavendishProfessorOfPhysics>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cavendish_Professor_of_Physics>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cavendish Professor of Physics"@en ;
@@ -4416,7 +4416,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-49#char=0,72> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/CavendishProfessorOfPhysics> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cavendish_Professor_of_Physics> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-39#char=28,57>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5381,7 +5381,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-49#char=0,72> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_7> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5735,6 +5735,11 @@
                 "He"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_6>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "He"@en .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_7>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "He"@en .
