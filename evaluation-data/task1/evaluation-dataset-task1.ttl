@@ -802,7 +802,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-41#char=0,146> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Brown> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gordon_Brown> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-19#char=150,160>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -918,7 +918,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Scotland> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FinancialServicesAuthority>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Financial_Services_Authority>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Financial Services Authority"@en ;
@@ -1002,7 +1002,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-38#char=0,349> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Brown> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gordon_Brown> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-10#char=0,160>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -1060,7 +1060,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-39#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Brown> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gordon_Brown> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HenryCullen>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -2409,7 +2409,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-38#char=0,349> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FinancialServicesAuthority> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Financial_Services_Authority> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Capon>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -2637,10 +2637,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chairman> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Brown>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gordon_Brown>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Brown"@en ;
+                "Gordon_Brown"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Gordon_Brown> .
 
@@ -3765,7 +3765,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-38#char=0,349> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BankOfEngland> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Bank_of_England> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Edinburgh>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -3785,7 +3785,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-39#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Brown> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gordon_Brown> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=53,66>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5885,7 +5885,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sapienza_University_of_Rome> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BankOfEngland>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Bank_of_England>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bank of England"@en ;
