@@ -5179,7 +5179,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-57#char=0,73> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_9> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/James_Watson>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5744,6 +5744,11 @@
                 "He"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_8>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "He"@en .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_9>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "He"@en .
