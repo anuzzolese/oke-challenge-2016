@@ -72,7 +72,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=0,188> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/EduardoSaverin> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Eduardo_Saverin> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-26#char=124,127>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -265,7 +265,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rector_(academia)> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/DustinMoskovitz>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Dustin_Moskovitz>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Dustin Moskovitz"@en ;
@@ -713,7 +713,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=0,188> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MarkZuckerberg> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Mark_Zuckerberg> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/The_Bronx_High_School_of_Science>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1804,7 +1804,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=0,188> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FellowStudent> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-28#char=0,253>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -2553,7 +2553,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Presidential_system> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ChrisHughes>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chris_Hughes>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Chris Hughes"@en ;
@@ -3241,13 +3241,6 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Plant> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/FellowStudent>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "fellow student"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Student> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stanford_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -3584,7 +3577,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=0,188> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HarvardCollege> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Harvard_College> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Semi-presidential_system>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -3665,7 +3658,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/GrammarSchool> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MarkZuckerberg>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Mark_Zuckerberg>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Mark Zuckerberg"@en ;
@@ -4026,7 +4019,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Ray_Kurzweil> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/EduardoSaverin>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Eduardo_Saverin>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Eduardo Saverin"@en ;
@@ -4725,7 +4718,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Marvin_Minsky> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AndrewMcCollum>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Andrew_McCollum>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Andrew McCollum"@en ;
@@ -4785,7 +4778,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=0,188> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/DustinMoskovitz> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Dustin_Moskovitz> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rome>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5032,7 +5025,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=0,188> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ChrisHughes> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chris_Hughes> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cabinet>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5105,7 +5098,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=0,188> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AndrewMcCollum> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Andrew_McCollum> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Teacher>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5479,7 +5472,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Queens> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HarvardCollege>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Harvard_College>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Harvard College"@en ;
@@ -5709,10 +5702,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Professor> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Roommates>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Roommate>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "roommates"@en ;
+                "Roommate"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Roommate> .
 
@@ -5987,7 +5980,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-17#char=0,188> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Roommates> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Roommate> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=42,48>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
