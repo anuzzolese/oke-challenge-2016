@@ -335,7 +335,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/EnricoFermi> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Enrico_Fermi> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cornell_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -471,7 +471,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ColdSpringHarborLaboratory> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cold_Spring_Harbor_Laboratory> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-34#char=0,2>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -828,7 +828,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RockefellerFoundation> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rockefeller_Foundation> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-23#char=77,84>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1128,7 +1128,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Hershey> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Alfred_Hershey> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SeniorResearcher>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1391,7 +1391,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "Its website was launched on February 4, 2004 by Mark Zuckerberg with his Harvard College roommates and fellow students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/VanderbiltUniversity>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Vanderbilt_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Vanderbilt University"@en ;
@@ -1760,13 +1760,6 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Mathematician> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/EnricoFermi>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Enrico Fermi"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Enrico_Fermi> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=57,79>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
@@ -2064,7 +2057,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfRome> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sapienza_University_of_Rome> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=313,320>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2606,7 +2599,20 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=59,62>
+        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
+                "his"@en ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
+                "59"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
+                "62"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
+        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=0,238>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -3115,10 +3121,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/His> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Delbr%C3%BCck>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Max_Delbrück>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Delbrück"@en ;
+                "Max Delbrück"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Max_Delbrück> .
 
@@ -3551,7 +3557,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-23#char=0,158> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/EnricoFermi> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Enrico_Fermi> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-47#char=207,209>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3630,7 +3636,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Delbr%C3%BCck> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Max_Delbrück> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-3#char=156,162>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3681,7 +3687,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "The College of William and Mary also has a \"Chancellor\" who acts in a ceremonial capacity. As far as American high schools, one notable case is the Rector of St. Paul's School in New Hampshire, in which the Rector is equivalent to the Headmaster."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ColdSpringHarborLaboratory>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cold_Spring_Harbor_Laboratory>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cold Spring Harbor Laboratory"@en ;
@@ -3896,7 +3902,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/VanderbiltUniversity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Vanderbilt_University> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-40#char=0,87>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -4026,10 +4032,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Eduardo_Saverin> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Hershey>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Alfred_Hershey>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Hershey"@en ;
+                "Alfred Hershey"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Alfred_Hershey> .
 
@@ -4818,9 +4824,9 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ColumbiaUniversity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Columbia_University> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RockefellerFoundation>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rockefeller_Foundation>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Rockefeller Foundation"@en ;
@@ -5595,13 +5601,6 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Austria> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/UniversityOfRome>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "University of Rome"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Sapienza_University_of_Rome> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=209,216>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
@@ -5764,7 +5763,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/President> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/ColumbiaUniversity>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Columbia_University>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Columbia University"@en ;
