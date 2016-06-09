@@ -2288,7 +2288,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_4> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RegiusProfessor>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Regius_Professor>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Regius Professor"@en ;
@@ -3736,7 +3736,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-43#char=0,103> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Black> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Joseph_Black> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-36#char=12,38>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5337,7 +5337,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-43#char=0,103> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RegiusProfessor> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Regius_Professor> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-48#char=31,39>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
