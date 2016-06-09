@@ -5807,13 +5807,6 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "He"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "He"@en , "he"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/William_Cullen> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-24#char=28,37>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
