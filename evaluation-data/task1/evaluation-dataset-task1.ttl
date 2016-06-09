@@ -141,7 +141,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MinisterOfEducation> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Education_minister> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-16#char=130,157>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -364,7 +364,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BenitoMussolini> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Benito_Mussolini> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-25#char=93,103>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2089,7 +2089,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cabinet> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cabinet_(government)> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,168>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -3208,7 +3208,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/InstituteOfPhysics> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Institute_of_Physics> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-37#char=93,99>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3706,10 +3706,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Mark_Zuckerberg> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/MinisterOfEducation>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Education_minister>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Minister of Education"@en ;
+                "Education minister"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Education_minister> .
 
@@ -3948,7 +3948,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "He served as Rector until 1975, and also edited the document The Red Paper on Scotland."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/InstituteOfPhysics>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Institute_of_Physics>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Institute of Physics"@en ;
@@ -4337,7 +4337,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/State> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BenitoMussolini>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Benito_Mussolini>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Benito Mussolini"@en ;
@@ -5024,7 +5024,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-22#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/OrsoMarioCorbino> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Orso_Mario_Corbino> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-28#char=44,65>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5066,10 +5066,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Chris_Hughes> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cabinet>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cabinet_(government)>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "cabinet"@en ;
+                "Cabinet (government)"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Cabinet_(government)> .
 
@@ -5937,7 +5937,7 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Bank_of_England> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/OrsoMarioCorbino>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Orso_Mario_Corbino>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Orso Mario Corbino"@en ;
