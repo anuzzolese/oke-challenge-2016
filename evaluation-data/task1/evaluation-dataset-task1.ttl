@@ -733,7 +733,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-21#char=0,93> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_6> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-38#char=0,349>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -4012,10 +4012,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Joseph_Black> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SapienzaUniversity>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sapienza_University_of_Rome>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Sapienza University"@en ;
+                "Sapienza_University_of_Rome"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Sapienza_University_of_Rome> .
 
@@ -5748,6 +5748,11 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "He"@en .
 
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_6>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "He"@en .
+
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -5887,7 +5892,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-21#char=0,93> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/SapienzaUniversity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sapienza_University_of_Rome> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/BankOfEngland>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
