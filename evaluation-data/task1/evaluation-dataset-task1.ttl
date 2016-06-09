@@ -1950,7 +1950,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-50#char=0,129> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/LondonBoroughOfSouthwark> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/London_Borough_of_Southwark> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Unitarian_Universalism>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -2415,7 +2415,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-50#char=0,129> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Faraday> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Michael_Faraday> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-41#char=97,99>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2616,7 +2616,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "From 1943 to 1950, he worked at Indiana University. His first graduate student was James D. Watson, who went on to discover the structure of DNA with Francis Crick. In January 1947, Luria became a naturalized citizen of the United States."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NewingtonButts>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Newington_Butts>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Newington Butts"@en ;
@@ -2806,7 +2806,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-50#char=0,129> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/NewingtonButts> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Newington_Butts> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-26#char=3,8>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2948,10 +2948,10 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Marvin_Minsky> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Faraday>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Michael_Faraday>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Faraday"@en ;
+                "Michael Faraday"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Michael_Faraday> .
 
@@ -3085,7 +3085,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "family"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/LondonBoroughOfSouthwark>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/London_Borough_of_Southwark>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "London Borough of Southwark"@en ;
