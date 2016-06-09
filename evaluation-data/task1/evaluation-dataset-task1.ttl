@@ -411,7 +411,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-46#char=0,135> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Robert> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Robert_Cullen,_Lord_Cullen> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Peterhouse,_Cambridge>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -1062,7 +1062,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Gordon_Brown> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HenryCullen>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Henry_Cullen>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Henry Cullen"@en ;
@@ -1479,10 +1479,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Enrico_Fermi> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RobertCullen>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Robert_Cullen,_Lord_Cullen>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Robert Cullen"@en ;
+                "Robert_Cullen,_Lord_Cullen"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Robert_Cullen,_Lord_Cullen> .
 
@@ -2240,7 +2240,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-46#char=0,135> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/HenryCullen> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Henry_Cullen> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Engineer>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -2853,11 +2853,9 @@
                 "Maryland Information and Network Dynamics Laboratory"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cullen>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Cullen"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Robert_Cullen,_Lord_Cullen> .
+                "Cullen"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-13#char=182,187>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3080,7 +3078,12 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-30#char=0,90> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sweden> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Family> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Family>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "family"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/LondonBoroughOfSouthwark>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -3538,7 +3541,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-46#char=0,135> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/RobertCullen> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Robert_Cullen,_Lord_Cullen> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Head_of_state>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -4952,13 +4955,6 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Tim_Berners-Lee> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Robert>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Robert"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Robert_Cullen,_Lord_Cullen> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-46#char=0,2>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
@@ -4970,7 +4966,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-46#char=0,135> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_10> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Ethical_Culture_Fieldston_School>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -5022,7 +5018,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Son>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "son"@en ;
+                "Son"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Son> .
 
@@ -5755,6 +5751,11 @@
                 "He"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_9>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "He"@en .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_10>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "He"@en .
