@@ -1525,10 +1525,10 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Association_for_the_Advancement_of_Artificial_Intelligence> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/LordKames>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Henry_Home,_Lord_Kames>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Lord Kames"@en ;
+                "Henry Home, Lord Kames"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Henry_Home,_Lord_Kames> .
 
@@ -3813,7 +3813,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-45#char=0,228> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/LordKames> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Henry_Home,_Lord_Kames> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-38#char=157,172>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4991,7 +4991,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-45#char=0,228> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_12> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-35#char=0,11>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5798,6 +5798,11 @@
                 "He"@en .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_11>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "He"@en .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/He_12>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "He"@en .
