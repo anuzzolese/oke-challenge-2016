@@ -445,7 +445,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-2#char=0,192> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AgnelliFamily> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/The_Agnelli_family> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-26#char=39,49>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3891,7 +3891,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-2#char=0,192> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus_F.C.> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-18#char=157,167>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4940,10 +4940,10 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sheen Mount Primary School"@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/AgnelliFamily>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/The_Agnelli_family>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Agnelli family"@en ;
+                "The Agnelli family"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/The_Agnelli_family> .
 
@@ -5712,13 +5712,6 @@
                 "Director (business)"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Director_(business)> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Juventus"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Juventus_F.C.> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Professor>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
