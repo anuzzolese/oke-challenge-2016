@@ -292,7 +292,7 @@
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Activism> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Activism>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Activism"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
