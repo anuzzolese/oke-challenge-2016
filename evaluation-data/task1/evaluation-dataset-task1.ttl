@@ -534,7 +534,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-10#char=0,160> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/High_School> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/High_school> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-46#char=7,13>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -869,7 +869,7 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus F.C.>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus_F.C.>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Juventus F.C."@en ;
@@ -1540,12 +1540,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=0,238> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Graduate_Student> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Graduate_Student>
-        a  <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Graduate Student"@en .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Student> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Petronius_of_Bologna>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
@@ -2950,19 +2945,6 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Edinburgh> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-21#char=88,92>
-        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "Rome"@en ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "88"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "92"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-21#char=0,93> ;
-        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Rome> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-15#char=18,27>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
@@ -3504,7 +3486,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=52,55>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "he"@en ;
+                "His"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
                 "52"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
@@ -3517,7 +3499,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-13#char=19,21>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "His"@en ;
+                "he"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
                 "19"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
@@ -3697,7 +3679,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-8#char=0,168> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/High_School> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/High_school> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-7#char=28,41>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -6132,14 +6114,14 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/London> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-21#char=65,84>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-21#char=65,92>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "Sapienza University"@en ;
+                "Sapienza University of Rome"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
                 "65"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "84"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "92"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-21#char=0,93> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
