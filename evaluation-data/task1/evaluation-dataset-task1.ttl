@@ -3634,6 +3634,24 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Boston> .
 
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-18#char=67,77>
+        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
+                "membership"@en ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
+                "67"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
+                "77"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-18#char=0,193> ;
+        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Membership> .
+
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Membership>
+        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> , <http://www.w3.org/2002/07/owl#Individual> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membership"@en .
+
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Henry>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -4480,13 +4498,6 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus_F.C.> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Juventus_F.C.>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Juventus_F.C."@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Juventus_F.C.> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-1#char=154,160>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
@@ -4820,14 +4831,14 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fiat_Automobiles> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-18#char=21,28>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-18#char=21,29>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "founder"@en ;
+                "founders"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
                 "21"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "28"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "29"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-18#char=0,193> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
@@ -4908,7 +4919,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Salvador_Luria"@en ;
+                "Salvador Luria"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Salvador_Luria> .
 
@@ -5677,7 +5688,7 @@
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Enrico_Fermi>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Enrico Fermi "@en ;
+                "Enrico Fermi"@en ;
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Enrico_Fermi> .
 
