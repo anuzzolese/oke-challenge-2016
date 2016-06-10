@@ -289,7 +289,7 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-49#char=0,72> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cambridge> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/University_of_Cambridge> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-35#char=121,123>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -5523,13 +5523,6 @@
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-23#char=0,158> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Laura_Fermi> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Cambridge>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Cambridge"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Cambridge> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-25#char=13,19>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
