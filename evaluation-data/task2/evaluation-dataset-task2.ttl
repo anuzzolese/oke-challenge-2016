@@ -47,7 +47,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "town"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-2#char=69,77>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -145,7 +145,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "subfield of computer science"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Topic> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Topic> .
 
 <http://dbpedia.org/resource/Primality_test>
         a       <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Algorithm> ;
@@ -196,7 +196,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "capability"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Characteristic> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Characteristic> .
 
 <http://dbpedia.org/resource/Electrolysis_of_water>
         a       <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DecompositionOfWater> ;
@@ -318,7 +318,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "wave"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Event> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Event> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-24#char=53,73>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -439,14 +439,14 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "department"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FederalExecutiveDepartment>
         a       <http://www.w3.org/2002/07/owl#Class> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "federal executive department"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ExecutiveDepartment> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ExecutiveDepartment> , <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-10#char=0,214>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -591,7 +591,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "archipelago"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/RomanPolitician>
         a       <http://www.w3.org/2002/07/owl#Class> ;
@@ -633,7 +633,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "match"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Event> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Event> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Biochemist>
         a       <http://www.w3.org/2002/07/owl#Class> ;
@@ -708,7 +708,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "United States federal executive department"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FederalExecutiveDepartment> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FederalExecutiveDepartment> , <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-4#char=0,8>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -750,7 +750,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "activity"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Activity> .
+                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/NaturalNumber>
         a       <http://www.w3.org/2002/07/owl#Class> ;
@@ -888,7 +888,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "feeling"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#CognitiveEntity> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#CognitiveEntity> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-27#char=0,31>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -1491,7 +1491,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "city"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/TaxonomicRank>
         a       <http://www.w3.org/2002/07/owl#Class> ;
@@ -1844,7 +1844,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "revolutionary wave"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Wave> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Event> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Wave> , <http://www.ontologydesignpatterns.org/ont/d0.owl#Event> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Multicellular-eukaryoticOrganisms>
         a       <http://www.w3.org/2002/07/owl#Class> ;
@@ -1898,7 +1898,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "mountain"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-8#char=0,7>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2047,7 +2047,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "sport"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#Activity> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-10#char=74,79>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2080,7 +2080,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "football match"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Match> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Event> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Match> , <http://www.ontologydesignpatterns.org/ont/d0.owl#Event> .
 
 <http://dbpedia.org/resource/Lingua_franca>
         a       <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Language> ;
@@ -2121,14 +2121,14 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "language"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#System> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#System> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HistoricCity>
         a       <http://www.w3.org/2002/07/owl#Class> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "historic city"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/City> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/City> , <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-20#char=27,41>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2148,7 +2148,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "contact team sport"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/TeamSport> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/TeamSport> , <http://www.ontologydesignpatterns.org/ont/d0.owl#Activity> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-46#char=0,63>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -2248,7 +2248,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "executive department"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Department> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Department> , <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-48#char=0,6>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -2470,7 +2470,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "experience"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#CognitiveEntity> .
+                <http://www.ontologydesignpatterns.org/ont/d0.owl#CognitiveEntity> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Sportsperson>
         a       <http://www.w3.org/2002/07/owl#Class> ;
@@ -2516,7 +2516,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "team sport"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Sport> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Sport> , <http://www.ontologydesignpatterns.org/ont/d0.owl#Activity> .
 
 <http://dbpedia.org/resource/Pascal_%28unit%29>
         a       <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/UnitOfMeasure> , <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DerivedUnitOfMeasure> , <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SIDerivedUnitOfMeasure> ;
@@ -2651,7 +2651,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "relatively brief conscious experience"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BriefConsciousExperience> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#CognitiveEntity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BriefConsciousExperience> , <http://www.ontologydesignpatterns.org/ont/d0.owl#CognitiveEntity> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-30#char=0,184>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -2693,7 +2693,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "brief conscious experience"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ConsciousExperience> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#CognitiveEntity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ConsciousExperience> , <http://www.ontologydesignpatterns.org/ont/d0.owl#CognitiveEntity> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-44#char=2,12>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -3145,7 +3145,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "conscious experience"@en ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Experience> , <http://www.ontologydesignpatterns.org/ont/wikipedia/d0.owl#CognitiveEntity> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Experience> , <http://www.ontologydesignpatterns.org/ont/d0.owl#CognitiveEntity> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DerivedUnitOfMeasure>
         a       <http://www.w3.org/2002/07/owl#Class> ;
