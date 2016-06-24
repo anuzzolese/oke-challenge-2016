@@ -7,7 +7,7 @@
 @prefix nif:   <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
 @prefix dul:   <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
 @prefix dbpedia: <http://dbpedia.org/resource/> .
-@prefix d0:    <http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#> .
+@prefix d0:    <http://www.ontologydesignpatterns.org/ont/d0.owl#> .
 @prefix dc:    <http://purl.org/dc/elements/1.1/> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-151#char=14,36>
@@ -1403,7 +1403,7 @@ oke:Unit  a              owl:Class ;
 
 oke:SecondSelf  a        owl:Class ;
         rdfs:label       "second self"@en ;
-        rdfs:subClassOf  dul:CognitiveObject .
+        rdfs:subClassOf  d0:CognitiveEntity .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-182#char=0,16>
         a                     nif:RFC5147String , nif:String ;
@@ -5388,7 +5388,7 @@ oke:Boxer  a             owl:Class ;
 
 oke:OperatingSystem  a   owl:Class ;
         rdfs:label       "operating system"@en ;
-        rdfs:subClassOf  dul:System .
+        rdfs:subClassOf  d0:System .
 
 oke:Console  a           owl:Class ;
         rdfs:label       "console"@en ;
@@ -6324,7 +6324,7 @@ dbpedia:Club_Atlético_Ciudad_de_Lorquí
 
 oke:Self  a              owl:Class ;
         rdfs:label       "self"@en ;
-        rdfs:subClassOf  dul:CognitiveObject .
+        rdfs:subClassOf  d0:CognitiveEntity .
 
 oke:Mathematician  a     owl:Class ;
         rdfs:label       "mathematician"@en ;
@@ -6703,7 +6703,7 @@ dbpedia:Abbe_refractometer
 
 oke:System  a            owl:Class ;
         rdfs:label       "system"@en ;
-        rdfs:subClassOf  d0:System , dul:System .
+        rdfs:subClassOf  d0:System .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/sentence-72#char=0,156>
         a               nif:Context , nif:RFC5147String , nif:String ;
