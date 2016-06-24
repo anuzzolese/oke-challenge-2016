@@ -3,7 +3,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
-@prefix d0: <http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#>
+@prefix d0: <http://www.ontologydesignpatterns.org/ont/d0.owl#>
 @prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#>
 @prefix oke: <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/> . 
 @prefix dbpedia: <http://dbpedia.org/resource/> .
