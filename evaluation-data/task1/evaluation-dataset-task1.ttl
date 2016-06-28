@@ -761,14 +761,14 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/The_Bronx_High_School_of_Science> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-21#char=13,15>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-21#char=27,29>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
                 "he"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "13"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "27"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "15"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "29"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-21#char=0,93> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
@@ -2434,14 +2434,14 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Engineer> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-5#char=151,153>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-5#char=156,158>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
                 "he"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "151"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "156"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "153"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "158"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-5#char=0,242> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
@@ -2480,14 +2480,14 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Regius_Professor> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-10#char=109,111>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-10#char=131,133>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
                 "he"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "109"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "131"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "111"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "133"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-10#char=0,160> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
@@ -2870,14 +2870,14 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "Along with the University of Edinburgh, the University was part of the Scottish Enlightenment during the 18th century."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-39#char=59,61>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-39#char=64,66>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
                 "he"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "59"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "64"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "61"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "66"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-39#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
@@ -3804,14 +3804,14 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Enrico_Fermi> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-47#char=207,209>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-47#char=212,214>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
                 "he"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "207"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "212"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "209"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "214"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-47#char=0,266> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
@@ -4178,14 +4178,14 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Institute_of_Physics> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-32#char=81,83>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-32#char=86,88>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
                 "he"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "81"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "86"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "83"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "88"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-32#char=0,303> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
@@ -6270,14 +6270,14 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Treasury> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-42#char=104,106>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-42#char=108,110>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
                 "he"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "104"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "108"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "106"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "110"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-42#char=0,257> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
