@@ -2526,13 +2526,6 @@
         <http://www.w3.org/2002/07/owl#sameAs>
                 <http://dbpedia.org/resource/Emanuel_School> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sweden>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Sweden"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Sweden> .
-
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Enrico>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person> , <http://www.w3.org/2002/07/owl#Individual> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -3276,19 +3269,6 @@
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-12#char=0,321> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Salvador_Luria> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-30#char=55,61>
-        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "Sweden"@en ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "55"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "61"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-30#char=0,90> ;
-        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sweden> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-30#char=70,76>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
@@ -4457,31 +4437,18 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Fellow> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=44,53>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=44,61>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "Stockholm"@en ;
+                "Stockholm, Sweden"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
                 "44"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "53"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=0,251> ;
-        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stockholm> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=55,61>
-        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "Sweden"@en ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "55"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
                 "61"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Sweden> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Stockholm> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-31#char=0,154>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> ;
@@ -4980,14 +4947,14 @@
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString>
                 "In 1926, at the age of 24, he applied for a professorship at the Sapienza University of Rome."@en .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-30#char=44,53>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-30#char=44,61>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "Stockholm"@en ;
+                "Stockholm, Sweden"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
                 "44"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "53"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+                "61"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-30#char=0,90> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
@@ -6230,38 +6197,18 @@
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Open_University> .
 
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=107,111>
+<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=107,119>
         a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "Oslo"@en ;
+                "Oslo, Norway"@en ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
                 "107"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
-                "111"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=0,251> ;
-        <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Oslo> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=113,119>
-        a       <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String> , <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf>
-                "Norway"@en ;
-        <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex>
-                "113"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex>
                 "119"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
         <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext>
                 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/sentence-29#char=0,251> ;
         <http://www.w3.org/2005/11/its/rdf#taIdentRef>
-                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Norway> .
-
-<http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Norway>
-        a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Place> , <http://www.w3.org/2002/07/owl#Individual> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Norway"@en ;
-        <http://www.w3.org/2002/07/owl#sameAs>
-                <http://dbpedia.org/resource/Norway> .
+                <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Oslo> .
 
 <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/Treasury>
         a       <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization> , <http://www.w3.org/2002/07/owl#Individual> ;
