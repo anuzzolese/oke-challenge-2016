@@ -40,7 +40,7 @@ For task 3 participants will have to produce results in the specified format.
 
 # Tasks Overview
 
-##Task 1
+## Task 1
 
 *Entity Recognition, Linking and Typing for Knowledge Base population.*
 
@@ -69,7 +69,7 @@ we want the system to recognize four entities:
 | Sydney | oke:Sydney| dul:Place      |    dbpedia:Sydney  |
 | Douglas Robert Dundas |oke:Douglas_Robert_Dundas| dul:Person      |      |
 
-###Expected Output
+### Expected Output
 
 The results must be provided in [NIF](http://persistence.uni-leipzig.org/nlp2rdf/) format, including the offsets of recognized entities. The expected output for the example sentence can be found in [task1.ttl](./example_data/task1.ttl).
 
@@ -79,7 +79,7 @@ In the above example we use
 @prefix oke: <http://www.ontologydesignpatterns.org/data/oke-challenge/task-1/>
 ```
 
-###Evaluation
+### Evaluation
 
 We will evaluate three aspects on this task, independently:
 
@@ -89,7 +89,7 @@ We will evaluate three aspects on this task, independently:
 
 We will calculate Precision, recall and F1 for the three subtasks and the winner for task 1 will be the system with higher average F1 for all three.
 
-##Task 2
+## Task 2
 
 *Class Induction and entity typing for Vocabulary and Knowledge Base enrichment.*
 
@@ -140,7 +140,7 @@ As an example, for the sentence:
 | fictional villain      |oke:FictionalVillain| dul:Personification | 
 | villain      | oke:Villain|dul:Person    |  
 
-###Expected Output
+### Expected Output
 
 The results must be provided in [NIF](http://persistence.uni-leipzig.org/nlp2rdf/) format, including the offsets of recognized string describing the type. The expected output for the example sentence can be found in [task2.ttl](./example_data/task2.ttl).
 
@@ -150,7 +150,7 @@ In the above example we use
 @prefix oke: <http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/>
 ```
 
-###Evaluation
+### Evaluation
 
 We will evaluate two aspects on this task, independently:
 
@@ -160,7 +160,7 @@ We will evaluate two aspects on this task, independently:
 We will calculate Precision, recall and F1 for the two subtasks and the winner for task 2 will be the system with higher average F1 for the two of them.
 
 
-##Task 3
+## Task 3
 In the last years, more and more websites started making use of
 markup languages as Microdata, RDFa, and Microformats to annotate
 information on their pages. In 2014, over 17.3% of the popular
@@ -183,7 +183,7 @@ non-annotated pages.
 
 
 
-###Provided input 
+### Provided input 
 
 Both training and test datasets are already available for [download](http://data.dws.informatik.uni-mannheim.de/LD4IE/2016/data/).
 
@@ -204,7 +204,7 @@ reconstructed.
 
 
 
-###Expected Output
+### Expected Output
 - For each Web page, we expect the users to extract a set of RDF
 statements. Following the [Microdata to RDF specification](http://www.w3.org/TR/microdata-rdf/),
 each resource is represented by a blank node.
@@ -240,7 +240,7 @@ in such a way would not be included in HTML pages which do not use schema.org as
 are not visible to the visitor of the page at all. We there remove those information and therefore 
 a recall of 1.0 might not be possible in such cases.
 
-###Evaluation
+### Evaluation
 
 For each of the six datasets, recall, precision,
 and F-measure (of triples in the gold standard) are computed,
