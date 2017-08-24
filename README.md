@@ -54,7 +54,7 @@ objects around which a story unfolds), either named or anonymous that is an indi
 - Organization
 - Role
 
-Entities also include anaphorically related discourse referents. Hence, anaphora resolution has to be take into account for addressing the task.
+Entities also include anaphorically related discourse referents. Hence, anaphora resolution has to be taken into account for addressing the task.
 
 As an example, for the sentence: 
 
